@@ -32,8 +32,7 @@ public class HealthProfileTest {
 
     }
     public static HealthProfile Patient(String name, String gender, int YearOfBirth, String MonthOfBirth, int DayOfBirth,int HeightInInches,double WeightInPounds){
-        HealthProfile Patient;
-        Patient = new HealthProfile(name,gender,YearOfBirth,MonthOfBirth,DayOfBirth,HeightInInches,WeightInPounds);
+        HealthProfile Patient = new HealthProfile(name,gender,YearOfBirth,MonthOfBirth,DayOfBirth,HeightInInches,WeightInPounds);
         return Patient;
     }
     public static void printInfo(HealthProfile Patient){

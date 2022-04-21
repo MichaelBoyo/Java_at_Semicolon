@@ -1,7 +1,4 @@
 package C3_Java;
-
-import C3_Java.Account;
-
 import java.util.Scanner;
 public class AccountTest {
     public static void main(String... args) {

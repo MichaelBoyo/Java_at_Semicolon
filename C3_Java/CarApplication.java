@@ -1,7 +1,5 @@
 package C3_Java;
 
-import C3_Java.Car;
-
 public class CarApplication {
     public static void main(String... args){
         Car BoyoMihael = new Car("RollsRoyce","2022",20000);

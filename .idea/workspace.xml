@@ -4,56 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="new repo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Arithmetic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/ComparingIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Diameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/DivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/IntEquivalent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/CalculateTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/CalculatingEnergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Comparism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/ConvertFeet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Desiderata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/MinutesToYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/PoundsToKg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/NegativePositiveZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/SameLineDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/ShapesWithAsteriks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/SmallestLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/TableOfSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C2_Java/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/CarApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/ClockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/HealthProfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/HealthProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/HeartRate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/HeartRateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/Petrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C3_Java/PetrolPurchase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/AreaOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CalculateInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CompoundValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/ComputingBMI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CostOfDriving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_at_Semicolon.iml" afterDir="false" />
+    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/CarApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/CarApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/HealthProfileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/HealthProfileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +27,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="287RsgoF8dUcEwPkS3ComjkZR3G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -95,7 +53,20 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AreaOfTriangle">
+  <component name="RunManager" selected="Application.HealthProfileTest">
+    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3_Java.AccountTest" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfTriangle" />
       <module name="Java_at_Semicolon" />
@@ -103,17 +74,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparingIntegers" />
+    <configuration name="CarApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3_Java.CarApplication" />
       <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3_Java.ClockTest" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HealthProfileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C3_Java.HealthProfileTest" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C3_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HealthProfileTest" />
+        <item itemvalue="Application.ClockTest" />
+        <item itemvalue="Application.CarApplication" />
+        <item itemvalue="Application.AccountTest" />
         <item itemvalue="Application.AreaOfTriangle" />
-        <item itemvalue="Application.ComparingIntegers" />
       </list>
     </recent_temporary>
   </component>
@@ -125,8 +131,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650565850938</updated>
-      <workItem from="1650565852446" duration="2202000" />
+      <workItem from="1650565852446" duration="3282000" />
     </task>
+    <task id="LOCAL-00001" summary="new repo">
+      <created>1650568223807</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650568223807</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
