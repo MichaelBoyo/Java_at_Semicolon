@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="new repo">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Arithmetic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/ComparingIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Diameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/DivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/IntEquivalent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/CalculateTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/CalculatingEnergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Comparism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/ConvertFeet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Desiderata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/MinutesToYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/PoundsToKg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/Java_Flex/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/NegativePositiveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/SameLineDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/ShapesWithAsteriks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/SmallestLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/TableOfSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C2_Java/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/CarApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/ClockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/HealthProfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/HealthProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/HeartRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/HeartRateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/Petrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C3_Java/PetrolPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CalculateInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CompoundValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/ComputingBMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/CostOfDriving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_at_Semicolon.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="287RsgoF8dUcEwPkS3ComjkZR3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AreaOfTriangle">
+    <configuration name="AreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaOfTriangle" />
+      <module name="Java_at_Semicolon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComparingIntegers" />
+      <module name="Java_at_Semicolon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaOfTriangle" />
+        <item itemvalue="Application.ComparingIntegers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="" />
+      <created>1650565850938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650565850938</updated>
+      <workItem from="1650565852446" duration="2202000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="new repo" />
+  </component>
+</project>
