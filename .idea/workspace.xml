@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C4_Java/BarChartPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/ClassAverageSentinel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/GasMileage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/IncrementAndDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/PassFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C4_Java/TrianglePrintingProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Clock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/ClockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/ClockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/GasMileage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IncrementAndDecrement">
+  <component name="RunManager" selected="Application.GasMileage">
     <configuration name="BarChartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C4_Java.BarChartPrinting" />
       <module name="Java_at_Semicolon" />
@@ -75,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.ClassAverage" />
+    <configuration name="ClassAverageSentinel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.ClassAverageSentinel" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassAverageSentinel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.ClassAverageSentinel" />
+    <configuration name="GasMileage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.GasMileage" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GasMileage" />
         <item itemvalue="Application.IncrementAndDecrement" />
         <item itemvalue="Application.PassFail" />
         <item itemvalue="Application.BarChartPrinting" />
         <item itemvalue="Application.ClassAverageSentinel" />
-        <item itemvalue="Application.ClassAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +145,7 @@
       <workItem from="1650828112839" duration="688000" />
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
-      <workItem from="1651317191704" duration="30261000" />
+      <workItem from="1651317191704" duration="33323000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -177,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650798815445</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new repo">
+      <created>1651431761977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651431761977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
