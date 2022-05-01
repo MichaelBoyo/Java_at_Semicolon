@@ -19,8 +19,8 @@ public class Clock {
     }
 
     public void setMinute(int minute) {
-        if(minute > 0){this.minute = minute;}
-        if(minute > 57){this.minute = 0;}
+        if(minute > 0 && minute < 60){this.minute = minute;}
+        if(minute > 59){this.minute = 0;}
     }
 
     public int getMinute() {
@@ -28,8 +28,8 @@ public class Clock {
     }
 
     public void setSecond(int second) {
-        if(second > 0){this.second = second;}
-        if(second > 57){this.second = 0;}
+        if(second > 0 && second < 60){this.second = second;}
+        if(second > 59){this.second = 0;}
     }
 
     public int getSecond() {

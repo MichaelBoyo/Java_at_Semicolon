@@ -7,18 +7,18 @@ public class InvestmentValue {
 
         Scanner Input = new Scanner(System.in);
 
-        System.out.print("Enter investmet amount: ");
+        System.out.print("Enter investment amount: ");
         double InvestmentAmount = Input.nextDouble();
 
         System.out.print("Enter annual interest rate in percentage: ");
         double InterestRate = Input.nextDouble();
 
         System.out.print("Enter number of years: ");
-        int NumberofYears = Input.nextInt();
+        int NumberOfYears = Input.nextInt();
 
-        double actualInteresrRate = 1 + (InterestRate / 100);
+        double actualInterestRate = 1 + (InterestRate / 100);
 
-        double MathPow = Math.pow(actualInteresrRate, NumberofYears);
+        double MathPow = Math.pow(actualInterestRate, NumberOfYears);
 
         double FutureInvestmentValue = InvestmentAmount * MathPow;
 
