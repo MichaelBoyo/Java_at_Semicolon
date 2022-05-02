@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C4_Java/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/CryptographyDecrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/CryptographyEncrypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/FindTheLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/RightAngle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/TabularOutput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/BarChartPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/PassFail.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/PassFail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/TrianglePrintingProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +45,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
-  <component name="RunManager" selected="Application.TaxCalculator">
-    <configuration name="CreditLimitCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.CreditLimitCalculator" />
+}]]></component>
+  <component name="RunManager" selected="Application.CryptographyDecrypt">
+    <configuration name="C4_Java.CryptographyEncrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.CryptographyEncrypt" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -67,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasMileage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.GasMileage" />
+    <configuration name="ClassAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.ClassAverage" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncrementAndDecrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.IncrementAndDecrement" />
+    <configuration name="CryptographyDecrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.CryptographyDecrypt" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SalesCommissionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.SalesCommissionCalculator" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.Palindrome" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.TaxCalculator" />
+    <configuration name="PassFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.PassFail" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaxCalculator" />
-        <item itemvalue="Application.SalesCommissionCalculator" />
-        <item itemvalue="Application.CreditLimitCalculator" />
-        <item itemvalue="Application.GasMileage" />
-        <item itemvalue="Application.IncrementAndDecrement" />
+        <item itemvalue="Application.CryptographyDecrypt" />
+        <item itemvalue="Application.PassFail" />
+        <item itemvalue="Application.C4_Java.CryptographyEncrypt" />
+        <item itemvalue="Application.C4_Java.Palindrome" />
+        <item itemvalue="Application.C4_Java.ClassAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +154,7 @@
       <workItem from="1650828112839" duration="688000" />
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
-      <workItem from="1651317191704" duration="40201000" />
+      <workItem from="1651317191704" duration="65201000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -197,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651443472226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updates">
+      <created>1651444582898</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651444582898</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
