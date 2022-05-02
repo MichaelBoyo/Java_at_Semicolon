@@ -5,7 +5,6 @@ public class TabularOutput {
         int i;
         int j;
 
-
         System.out.print("n     n1    n2    n3    n4");
 
         System.out.println();System.out.println();
