@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C4_Java/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C4_Java/SpecifiedSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/DecimalEquivalentOfBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/DecimalEquivalentOfBinary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DecimalEquivalentOfBinary">
-    <configuration name="C4_Java.CryptographyEncrypt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.CryptographyEncrypt" />
+  <component name="RunManager" selected="Application.Comparator">
+    <configuration name="Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.Comparator" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -93,19 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.Palindrome" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C4_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PassFail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C4_Java.PassFail" />
       <module name="Java_at_Semicolon" />
@@ -119,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpecifiedSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.SpecifiedSum" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C4_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comparator" />
+        <item itemvalue="Application.SpecifiedSum" />
         <item itemvalue="Application.DecimalEquivalentOfBinary" />
         <item itemvalue="Application.CryptographyDecrypt" />
         <item itemvalue="Application.PassFail" />
-        <item itemvalue="Application.C4_Java.CryptographyEncrypt" />
-        <item itemvalue="Application.C4_Java.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <workItem from="1650828112839" duration="688000" />
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
-      <workItem from="1651317191704" duration="68668000" />
+      <workItem from="1651317191704" duration="72358000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -218,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651500961475</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updates">
+      <created>1651501584835</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651501584835</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
