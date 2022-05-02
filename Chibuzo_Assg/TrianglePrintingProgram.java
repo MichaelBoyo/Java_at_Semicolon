@@ -1,4 +1,4 @@
-package C4_Java;
+package Chibuzo_Assg;
 
 public class TrianglePrintingProgram {
     public static void main(String[] args) {
