@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/DaysOfChristmas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/FactorialValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/MathPowManual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/LargestAndSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/NumCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,30 +38,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Chibob1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Chibob1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RandomNumberGuess">
-    <configuration name="C2_Java.Chibuzo_Assg.MathPowManual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_Java.Chibuzo_Assg.MathPowManual" />
+}</component>
+  <component name="RunManager" selected="Application.NumCounter">
+    <configuration name="LargestAndSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.LargestAndSmallest" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C2_Java.Chibuzo_Assg.*" />
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.NumCounter" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.PrimeNumber" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,39 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfEvenAndOddIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.SumOfEvenAndOddIntegers" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrianglePrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.TrianglePrintingProgram" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumCounter" />
+        <item itemvalue="Application.LargestAndSmallest" />
+        <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.RandomNumberGuess" />
         <item itemvalue="Application.PyramidPrinting" />
-        <item itemvalue="Application.TrianglePrintingProgram" />
-        <item itemvalue="Application.SumOfEvenAndOddIntegers" />
-        <item itemvalue="Application.C2_Java.Chibuzo_Assg.MathPowManual" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +148,8 @@
       <workItem from="1650828112839" duration="688000" />
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
-      <workItem from="1651317191704" duration="94097000" />
+      <workItem from="1651317191704" duration="94120000" />
+      <workItem from="1651565286504" duration="6602000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -262,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651523678949</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="updates">
+      <created>1651540691846</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651540691846</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
