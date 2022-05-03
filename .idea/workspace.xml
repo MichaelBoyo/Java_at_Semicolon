@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/WhileCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/BarchartPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/DaysOfChristmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/FactorialValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/MathPowManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/SumOfNaturalNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +53,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Chibob1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,9 +62,22 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BarchartPrinting">
-    <configuration name="BarchartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.BarchartPrinting" />
+  <component name="RunManager" selected="Application.RandomNumberGuess">
+    <configuration name="C2_Java.Chibuzo_Assg.MathPowManual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_Java.Chibuzo_Assg.MathPowManual" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C2_Java.Chibuzo_Assg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PyramidPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.PyramidPrinting" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_Java.Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.Factorial" />
+    <configuration name="RandomNumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.RandomNumberGuess" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_Java.TabularOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.TabularOutput" />
+    <configuration name="SumOfEvenAndOddIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.SumOfEvenAndOddIntegers" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -96,20 +115,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_Java.WorldPopulationGrowth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.WorldPopulationGrowth" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Chibuzo_Assg.TrianglePrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TrianglePrintingProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.TrianglePrintingProgram" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
@@ -124,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BarchartPrinting" />
-        <item itemvalue="Application.C4_Java.WorldPopulationGrowth" />
-        <item itemvalue="Application.C4_Java.TabularOutput" />
-        <item itemvalue="Application.Chibuzo_Assg.TrianglePrintingProgram" />
-        <item itemvalue="Application.C4_Java.Factorial" />
+        <item itemvalue="Application.RandomNumberGuess" />
+        <item itemvalue="Application.PyramidPrinting" />
+        <item itemvalue="Application.TrianglePrintingProgram" />
+        <item itemvalue="Application.SumOfEvenAndOddIntegers" />
+        <item itemvalue="Application.C2_Java.Chibuzo_Assg.MathPowManual" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +155,7 @@
       <workItem from="1650828112839" duration="688000" />
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
-      <workItem from="1651317191704" duration="83399000" />
+      <workItem from="1651317191704" duration="94097000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -249,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651516666445</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updates">
+      <created>1651523678949</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651523678949</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
