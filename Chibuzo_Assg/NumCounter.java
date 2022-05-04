@@ -9,15 +9,15 @@ public class NumCounter {
         int negCount = 0;
         int zCount = 0;
 
-        System.out.print("Enter numbers or 999 to terminate: ");
+        System.out.print("Enter numbers or +1 to terminate: ");
         int num = scanner.nextInt();
 
-        while (num!=999) {
+        while (num!=+1) {
                 if (num > 0) {posCount = posCount + 1;}
                 if (num == 0) {zCount = zCount + 1;}
                 if (num < 0) {negCount = negCount + 1;}
 
-                System.out.print("Enter numbers or 999 to terminate: ");
+                System.out.print("Enter numbers or +1 to terminate: ");
                 num = scanner.nextInt();
         }
 
