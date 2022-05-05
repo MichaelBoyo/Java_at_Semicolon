@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/LetterGrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" afterDir="false" />
+    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C5_Java/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/Extreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/IntegersDivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/LetterGrades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/LogicalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/StudentGrades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/WhileCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/SummingIntegersWithForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/NumCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/NumCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/CreditLimitCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/CreditLimitCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/LetterGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/LetterGrades.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -64,13 +68,13 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumCounter">
-    <configuration name="C5_Java.CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SeparatingDigits">
+    <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_Java.CompoundInterest" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C5_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5_Java.DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.DoWhileTest" />
+    <configuration name="LetterGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.LetterGrades" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C5_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C5_Java.SummingIntegersWithForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.SummingIntegersWithForLoop" />
+    <configuration name="ModifiedCompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.ModifiedCompoundInterest" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C5_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chibuzo_Assg.DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.DoWhileLoop" />
+    <configuration name="SeparatingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_Java.SeparatingDigits" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C2_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.NumCounter" />
+    <configuration name="StudentGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.StudentGrades" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C5_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumCounter" />
-        <item itemvalue="Application.Chibuzo_Assg.DoWhileLoop" />
-        <item itemvalue="Application.C5_Java.DoWhileTest" />
-        <item itemvalue="Application.C5_Java.CompoundInterest" />
-        <item itemvalue="Application.C5_Java.SummingIntegersWithForLoop" />
+        <item itemvalue="Application.SeparatingDigits" />
+        <item itemvalue="Application.StudentGrades" />
+        <item itemvalue="Application.LetterGrades" />
+        <item itemvalue="Application.ModifiedCompoundInterest" />
+        <item itemvalue="Application.CompoundInterest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +162,8 @@
       <workItem from="1650832530401" duration="1466000" />
       <workItem from="1650923563874" duration="3304000" />
       <workItem from="1651317191704" duration="94120000" />
-      <workItem from="1651565286504" duration="21341000" />
+      <workItem from="1651565286504" duration="33602000" />
+      <workItem from="1651745875630" duration="5131000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -279,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651574533527</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="updates">
+      <created>1651674978354</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651674978354</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

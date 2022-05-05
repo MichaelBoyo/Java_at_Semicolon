@@ -28,15 +28,9 @@ public class CreditLimitCalculator {
                     else{System.out.println(" credit limit exceeded");}
                 }
                 else{System.out.println("no credit provided");}
-
             }
             else{System.out.println(" no charges provided");}
         }
         else{System.out.println("no account details were provided");}
-
-
-
-//        int newBalance = beginMonthBalance + charges- credit;
-
     }
 }

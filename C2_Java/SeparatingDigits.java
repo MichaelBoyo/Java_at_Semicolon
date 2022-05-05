@@ -2,25 +2,25 @@ package C2_Java;
 
 import java.util.Scanner;
 public class SeparatingDigits {
-    public static void main(String... args){
+    public static void main(String... args) {
 
         Scanner Input = new Scanner(System.in);
 
         System.out.print("Enter a Five digit number: ");
-        char a = Input.next().charAt(0);
-        char b = Input.next().charAt(1);
-        char c = Input.next().charAt(2);
-        char d = Input.next().charAt(3);
-        char e = Input.next().charAt(4);
+        String num = Input.nextLine();
+        int Num = Integer.parseInt(num);
 
-//        char A = a;
-//        char B = b;
-//        char C = c;
-//        char D = d;
-//        char E = e;
+        if (Num / 10000 >= 1 && Num / 100000 < 1) {
+            char A = num.charAt(0);
+            char B = num.charAt(1);
+            char C = num.charAt(2);
+            char D = num.charAt(3);
+            char E = num.charAt(4);
 
+            System.out.printf("%c   %c   %c   %c   %c", A, B, C, D, E);
+        }else{
+            System.out.println("incorrect input.. restart program");
+        }
 
-        System.out.printf("%c   %c   %c   %c   %c", a, b, c, d, e);
     }
-
 }
