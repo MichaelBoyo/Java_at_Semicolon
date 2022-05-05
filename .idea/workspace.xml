@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/SumOfSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +153,7 @@
       <workItem from="1650923563874" duration="3304000" />
       <workItem from="1651317191704" duration="94120000" />
       <workItem from="1651565286504" duration="33602000" />
-      <workItem from="1651745875630" duration="6962000" />
+      <workItem from="1651745875630" duration="8260000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -290,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651760382943</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="updates">
+      <created>1651762299736</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651762299736</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
