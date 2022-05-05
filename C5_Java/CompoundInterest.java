@@ -9,8 +9,8 @@ public class CompoundInterest {
         System.out.printf("%s%20s%n","Year","Amount");
         for(n=1;n<=10;n++){
             a= p* Math.pow(1+r,n);
-            System.out.printf("%4d%,22.2f%n",n,a,"%f",r);
-            r+=0.01;
+            System.out.printf("%4d%,22.2f%n",n,a);
+
         }
     }
 }

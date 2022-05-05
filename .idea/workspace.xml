@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/AutoPolicy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/Extreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/IntegersDivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/LetterGrades.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/SumOfSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/C2_Java/SeparatingDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/CreditLimitCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/CreditLimitCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/CompoundInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/LetterGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/LetterGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,9 +60,22 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SeparatingDigits">
+  <component name="RunManager" selected="Application.ModifiedCompoundInterest">
     <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_Java.CompoundInterest" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegersDivisibleBy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.IntegersDivisibleBy3" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -108,21 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparatingDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C2_Java.SeparatingDigits" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C2_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.StudentGrades" />
+    <configuration name="SumOfSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.SumOfSeries" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeparatingDigits" />
-        <item itemvalue="Application.StudentGrades" />
-        <item itemvalue="Application.LetterGrades" />
         <item itemvalue="Application.ModifiedCompoundInterest" />
         <item itemvalue="Application.CompoundInterest" />
+        <item itemvalue="Application.SumOfSeries" />
+        <item itemvalue="Application.LetterGrades" />
+        <item itemvalue="Application.IntegersDivisibleBy3" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +155,7 @@
       <workItem from="1650923563874" duration="3304000" />
       <workItem from="1651317191704" duration="94120000" />
       <workItem from="1651565286504" duration="33602000" />
-      <workItem from="1651745875630" duration="5131000" />
+      <workItem from="1651745875630" duration="6962000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -291,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651674978354</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="updates">
+      <created>1651760382942</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651760382943</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
