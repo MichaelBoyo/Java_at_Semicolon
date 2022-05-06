@@ -29,7 +29,9 @@ public class AutoPolicy {
     }
 
     public void setState(String state) {
-        this.state = state;
+        this.state=state;
+
+
     }
 
     public String getState() {
@@ -38,7 +40,10 @@ public class AutoPolicy {
 
     public boolean isNoFaultState() {
         boolean noFaultState = switch (getState()) {
-            case "MA", "NJ", "NY", "PA" -> true;
+            //CT for Connecticut, MA for Massachusetts, ME
+            //for Maine, NH for New Hampshire, NJ for New Jersey, NY for New York, PA for Pennsylvania
+            //and VT for Vermont
+            case "MA", "NY", "PA","CT","ME", "NH", "NJ", "VT"-> true;
             default -> false;
         };
 

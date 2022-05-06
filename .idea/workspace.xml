@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/DeMorgansLaw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/AutoPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/AutoPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +59,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DeMorgansLaw">
+  <component name="RunManager" selected="Application.DoWhileLoop">
     <configuration name="Assume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_Java.Assume" />
       <module name="Java_at_Semicolon" />
@@ -85,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModifiedCompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.ModifiedCompoundInterest" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.DoWhileLoop" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C5_Java.*" />
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.DeMorgansLaw" />
         <item itemvalue="Application.PytagorasTriple" />
         <item itemvalue="Application.valueOfPi" />
         <item itemvalue="Application.Assume" />
-        <item itemvalue="Application.ModifiedCompoundInterest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,7 @@
       <workItem from="1650923563874" duration="3304000" />
       <workItem from="1651317191704" duration="94120000" />
       <workItem from="1651565286504" duration="33602000" />
-      <workItem from="1651745875630" duration="18035000" />
+      <workItem from="1651745875630" duration="23249000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -309,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651837404040</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="updates">
+      <created>1651839103733</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651839103733</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

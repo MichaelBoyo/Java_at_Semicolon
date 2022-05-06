@@ -7,20 +7,18 @@ public class DoWhileLoop {
         Scanner scanner = new Scanner(System.in);
 
         int sum;
-        System.out.print("Enter two numbers: ");
+        System.out.print("Enter first number: ");
         int number = scanner.nextInt();
+        System.out.print("Enter second number: ");
         int num = scanner.nextInt();
-        int redo;
+        int redo = 0;
         do {
             sum = num + number;
-            System.out.println("the sum is "+sum);
-            System.out.println("Enter +1 to perform the operation again: ");
+            System.out.println("the sum is " + sum);
+
+            System.out.println("Enter 1 to perform the operation again or 0 to terminate: ");
             redo = scanner.nextInt();
 
-            System.out.print("Enter two numbers: ");
-            number = scanner.nextInt();
-            num = scanner.nextInt();
-        } while (redo == +1);
-
+        } while (redo == 1);
     }
 }
