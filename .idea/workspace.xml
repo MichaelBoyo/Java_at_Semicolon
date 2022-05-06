@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C5_Java/Assume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/PytagorasTriple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/valueOfPi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/ModifiedCompoundInterest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,35 +60,22 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ModifiedCompoundInterest">
+  <component name="RunManager" selected="Application.PytagorasTriple">
+    <configuration name="Assume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.Assume" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompoundInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_Java.CompoundInterest" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C5_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IntegersDivisibleBy3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.IntegersDivisibleBy3" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C5_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LetterGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.LetterGrades" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +100,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.SumOfSeries" />
+    <configuration name="PytagorasTriple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.PytagorasTriple" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="valueOfPi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.valueOfPi" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PytagorasTriple" />
+        <item itemvalue="Application.valueOfPi" />
+        <item itemvalue="Application.Assume" />
         <item itemvalue="Application.ModifiedCompoundInterest" />
         <item itemvalue="Application.CompoundInterest" />
-        <item itemvalue="Application.SumOfSeries" />
-        <item itemvalue="Application.LetterGrades" />
-        <item itemvalue="Application.IntegersDivisibleBy3" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +155,7 @@
       <workItem from="1650923563874" duration="3304000" />
       <workItem from="1651317191704" duration="94120000" />
       <workItem from="1651565286504" duration="33602000" />
-      <workItem from="1651745875630" duration="8260000" />
+      <workItem from="1651745875630" duration="16765000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -295,7 +297,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651762299736</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="updates">
+      <created>1651763713135</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1651763713135</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
