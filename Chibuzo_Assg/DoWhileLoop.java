@@ -11,7 +11,7 @@ public class DoWhileLoop {
         int number = scanner.nextInt();
         System.out.print("Enter second number: ");
         int num = scanner.nextInt();
-        int redo = 0;
+        int redo;
         do {
             sum = num + number;
             System.out.println("the sum is " + sum);
