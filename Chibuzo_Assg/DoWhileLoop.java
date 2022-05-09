@@ -8,16 +8,16 @@ public class DoWhileLoop {
 
         int sum;
         System.out.print("Enter first number: ");
-        int number = scanner.nextInt();
+        int number1 = scanner.nextInt();
         System.out.print("Enter second number: ");
-        int num = scanner.nextInt();
+        int number2 = scanner.nextInt();
         int redo;
         do {
-            sum = num + number;
+            sum = number2 + number1;
             System.out.println("the sum is " + sum);
 
             System.out.println("Enter 1 to perform the operation again or 0 to terminate: ");
-            redo = scanner.nextInt();
+          redo = scanner.nextInt();
 
         } while (redo == 1);
     }

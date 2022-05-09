@@ -7,7 +7,7 @@ public class LargestAndSmallest {
         Scanner input = new Scanner(System.in);
 
         int largest= 0;
-        int smallest = 999999999;
+        int smallest = 0;
 
         System.out.print("Enter numbers not more than 9 digits each or -1 to end: ");
         int numbers = input.nextInt();
@@ -18,7 +18,7 @@ public class LargestAndSmallest {
                 i++;
             }
             while(i>=numbers){
-                if(numbers<smallest){smallest =numbers;}
+                if(numbers<largest){smallest =numbers;}
                 i--;
             }
             i++;
@@ -26,7 +26,7 @@ public class LargestAndSmallest {
             numbers = input.nextInt();
         }
         if(largest!=0){System.out.println(largest+" is the largest number");}
-        if (smallest != 100000000) {System.out.println(smallest+" is the smallest number");}
+        if (smallest != 0) {System.out.println(smallest+" is the smallest number");}
 
     }
 }

@@ -13,10 +13,12 @@ public class BarchartPrinting {
         int num4 = scanner.nextInt();
         int num5 = scanner.nextInt();
 
+
         for (int i= 1;i<= num1;i++ ) {
             System.out.print("*");
         }
         System.out.printf("%n");
+
 
         for (int i = 1; i <= num2; i++) {
             System.out.print("*");
