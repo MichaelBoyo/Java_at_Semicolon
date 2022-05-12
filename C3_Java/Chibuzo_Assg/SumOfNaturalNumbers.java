@@ -1,4 +1,4 @@
-package Chibuzo_Assg;
+package C3_Java.Chibuzo_Assg;
 
 public class SumOfNaturalNumbers {
     public static void main(String[] args) {

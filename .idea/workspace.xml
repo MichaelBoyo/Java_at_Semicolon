@@ -5,14 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/ClimateChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C5_Java/FairTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C5_Java/Edmodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/TabularOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/TabularOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/BarchartPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/LargestAndSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/AreaOfTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/BarchartPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CalculateInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CompoundValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CompoundValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/ComputingBMI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CostOfDriving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DaysOfChristmas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/FactorialValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/FactorialValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/InvestmentValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/LargestAndSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/MathPowManual.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/MathPowManual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/NumCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/NumCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PyramidPrinting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/TrianglePrintingProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,34 +57,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Chibob1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Chibob1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FairTax">
-    <configuration name="BarchartPrinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.BarchartPrinting" />
+}</component>
+  <component name="RunManager" selected="Application.SecureRandomNum">
+    <configuration name="IVR2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Flex.IVR2" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="Java_Flex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClimateChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.ClimateChange" />
+    <configuration name="IVR3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Flex.IVR3" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C5_Java.*" />
+          <option name="PATTERN" value="Java_Flex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FairTax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C5_Java.FairTax" />
+    <configuration name="Nokia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Flex.Nokia" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C5_Java.*" />
+          <option name="PATTERN" value="Java_Flex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAndSmallest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.LargestAndSmallest" />
+    <configuration name="SecureRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.SecureRandom" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C6_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNumberGuess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.RandomNumberGuess" />
+    <configuration name="SecureRandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.SecureRandomNum" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C6_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FairTax" />
-        <item itemvalue="Application.ClimateChange" />
-        <item itemvalue="Application.RandomNumberGuess" />
-        <item itemvalue="Application.LargestAndSmallest" />
-        <item itemvalue="Application.BarchartPrinting" />
+        <item itemvalue="Application.SecureRandomNum" />
+        <item itemvalue="Application.SecureRandom" />
+        <item itemvalue="Application.Nokia" />
+        <item itemvalue="Application.IVR3" />
+        <item itemvalue="Application.IVR2" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +174,9 @@
       <workItem from="1651317191704" duration="94120000" />
       <workItem from="1651565286504" duration="33602000" />
       <workItem from="1651745875630" duration="39402000" />
+      <workItem from="1652089669273" duration="6952000" />
+      <workItem from="1652345650771" duration="3551000" />
+      <workItem from="1652349270112" duration="24333000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -336,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651848090762</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updates">
+      <created>1652089804510</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652089804510</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

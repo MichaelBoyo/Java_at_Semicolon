@@ -1,4 +1,4 @@
-package Chibuzo_Assg;
+package C3_Java.Chibuzo_Assg;
 
 import java.util.Scanner;
 import java.io.*;
