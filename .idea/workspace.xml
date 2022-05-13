@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C5_Java/Edmodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/AreaOfTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/BarchartPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CalculateInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CompoundValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CompoundValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/ComputingBMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CostOfDriving.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DaysOfChristmas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DoWhileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/FactorialValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/FactorialValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/InvestmentValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/LargestAndSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/MathPowManual.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/MathPowManual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/NumCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/NumCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PyramidPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/RandomNumberGuess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/TrianglePrintingProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,20 +58,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SecureRandomNum">
-    <configuration name="IVR2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.IVR2" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ober">
     <configuration name="IVR3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Flex.IVR3" />
       <module name="Java_at_Semicolon" />
@@ -107,6 +74,19 @@
     </configuration>
     <configuration name="Nokia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Flex.Nokia" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Flex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ober" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Flex.Ober" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -146,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ober" />
+        <item itemvalue="Application.Nokia" />
         <item itemvalue="Application.SecureRandomNum" />
         <item itemvalue="Application.SecureRandom" />
-        <item itemvalue="Application.Nokia" />
         <item itemvalue="Application.IVR3" />
-        <item itemvalue="Application.IVR2" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +156,9 @@
       <workItem from="1651745875630" duration="39402000" />
       <workItem from="1652089669273" duration="6952000" />
       <workItem from="1652345650771" duration="3551000" />
-      <workItem from="1652349270112" duration="24333000" />
+      <workItem from="1652349270112" duration="33523000" />
+      <workItem from="1652438915023" duration="589000" />
+      <workItem from="1652439548655" duration="11091000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -360,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652089804510</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="updates">
+      <created>1652392178537</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652392178537</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
