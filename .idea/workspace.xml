@@ -5,26 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C6_Java/AsterisksSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/BeautifyingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/DaysOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Divisible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/FinalMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/FloorAndCeil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/HypotenuseCalculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/MethodOverload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Multiples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/ParkingCharges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/RoundingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/RoundingNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Scope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/TestForLeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/volumeOfSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Palindromee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/TemperatureConversions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/FinalMethod.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,20 +63,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="BeautifyingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.BeautifyingStrings" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C6_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PerfectNumber">
     <configuration name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C6_Java.FinalMethod" />
       <module name="Java_at_Semicolon" />
@@ -103,12 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObeEdit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.ObeEdit" />
+    <configuration name="Palindromee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.Palindromee" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
+          <option name="PATTERN" value="C6_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.PerfectNumber" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C6_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestForLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.TestForLeapYear" />
+    <configuration name="TemperatureConversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.TemperatureConversions" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PerfectNumber" />
+        <item itemvalue="Application.Palindromee" />
+        <item itemvalue="Application.TemperatureConversions" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.FinalMethod" />
-        <item itemvalue="Application.BeautifyingStrings" />
-        <item itemvalue="Application.ObeEdit" />
-        <item itemvalue="Application.TestForLeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +167,7 @@
       <workItem from="1652463947451" duration="11484000" />
       <workItem from="1652637870417" duration="19478000" />
       <workItem from="1652703384626" duration="41000" />
-      <workItem from="1652714397401" duration="3626000" />
+      <workItem from="1652714397401" duration="7470000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -392,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652454386738</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updates">
+      <created>1652723005830</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652723005830</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

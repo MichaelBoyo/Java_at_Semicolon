@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String[] args) {
+        isPalindrome();
+
+    }
+
+    public static void isPalindrome() {
         Scanner scanner = new Scanner(System.in);
         int reversed = 0;
 
