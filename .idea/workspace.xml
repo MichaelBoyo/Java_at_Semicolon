@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/C6_Java/AsterisksSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/BeautifyingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/DaysOfTheWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/FloorAndCeil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/HypotenuseCalculations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/MethodOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Multiples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/ParkingCharges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/RoundingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/RoundingNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/TestForLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/volumeOfSphere.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SecureRandomNum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -44,7 +63,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Chibob1",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,51 +73,12 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ober2">
-    <configuration name="Nokia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.Nokia" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ober" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.Ober" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ober2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.Ober2" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecureRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.SecureRandom" />
+  <component name="RunManager" selected="Application.SumOfDigits">
+    <configuration name="BeautifyingStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.BeautifyingStrings" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +90,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecureRandomNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.SecureRandomNum" />
+    <configuration name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.FinalMethod" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C6_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObeEdit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Flex.ObeEdit" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Flex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.SumOfDigits" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C6_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.TestForLeapYear" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ober2" />
-        <item itemvalue="Application.Ober" />
-        <item itemvalue="Application.Nokia" />
-        <item itemvalue="Application.SecureRandomNum" />
-        <item itemvalue="Application.SecureRandom" />
+        <item itemvalue="Application.SumOfDigits" />
+        <item itemvalue="Application.FinalMethod" />
+        <item itemvalue="Application.BeautifyingStrings" />
+        <item itemvalue="Application.ObeEdit" />
+        <item itemvalue="Application.TestForLeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +176,11 @@
       <workItem from="1652345650771" duration="3551000" />
       <workItem from="1652349270112" duration="33523000" />
       <workItem from="1652438915023" duration="589000" />
-      <workItem from="1652439548655" duration="12618000" />
+      <workItem from="1652439548655" duration="16376000" />
+      <workItem from="1652463947451" duration="11484000" />
+      <workItem from="1652637870417" duration="19478000" />
+      <workItem from="1652703384626" duration="41000" />
+      <workItem from="1652714397401" duration="3626000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -362,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652452837322</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="updates">
+      <created>1652454386738</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1652454386738</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

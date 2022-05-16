@@ -1,0 +1,5 @@
+package C6_Java;
+
+public enum DaysOfTheWeek {
+    SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY
+}
