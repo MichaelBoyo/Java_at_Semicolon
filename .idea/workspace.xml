@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C6_Java/Palindromee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/TemperatureConversions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/CoinTossing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/DistanceBetweenPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Elom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Sports.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/GasMileage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/FinalMethod.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PerfectNumber">
-    <configuration name="FinalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.FinalMethod" />
+}</component>
+  <component name="RunManager" selected="Application.DistanceBetweenPoints">
+    <configuration name="CoinTossing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.CoinTossing" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindromee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.Palindromee" />
+    <configuration name="DistanceBetweenPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.DistanceBetweenPoints" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.PerfectNumber" />
+    <configuration name="Elom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.Elom" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.SumOfDigits" />
+    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.GuessTheNumber" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +118,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemperatureConversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.TemperatureConversions" />
+    <configuration name="Sports" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.Sports" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.Palindromee" />
-        <item itemvalue="Application.TemperatureConversions" />
-        <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.FinalMethod" />
+        <item itemvalue="Application.DistanceBetweenPoints" />
+        <item itemvalue="Application.GuessTheNumber" />
+        <item itemvalue="Application.Elom" />
+        <item itemvalue="Application.CoinTossing" />
+        <item itemvalue="Application.Sports" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,8 @@
       <workItem from="1652463947451" duration="11484000" />
       <workItem from="1652637870417" duration="19478000" />
       <workItem from="1652703384626" duration="41000" />
-      <workItem from="1652714397401" duration="7470000" />
+      <workItem from="1652714397401" duration="23569000" />
+      <workItem from="1652820092373" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -386,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652723005830</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="updates">
+      <created>1652727129708</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652727129708</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

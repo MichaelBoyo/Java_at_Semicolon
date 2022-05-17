@@ -53,7 +53,6 @@ public class GasMileage {
             System.out.println("no gallons were entered");
         }
 
-        ///
         System.out.print("Enter mileage or -1 to end: ");
         mileage =scanner.nextInt();
 

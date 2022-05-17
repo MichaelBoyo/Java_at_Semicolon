@@ -10,7 +10,7 @@ public class PrimeNumber {
         int number = scanner.nextInt();
         int factors= 0;
 
-        factors = getFactors(number, factors);
+        factors = getFactors(number);
         if(factors==2){
             System.out.println(number+ " is a prime number ");
         }else{
@@ -19,8 +19,9 @@ public class PrimeNumber {
 
     }
 
-    public static int getFactors(int number, int factors) {
-        for(int i = 1; i<= number; i++){
+    public static int getFactors(int number) {
+        int factors=0;
+        for(int i = 1; i<=number; i++){
             if(number %i == 0){
                 factors = factors +1;
             }
