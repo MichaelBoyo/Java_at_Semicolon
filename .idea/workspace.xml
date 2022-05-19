@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C6_Java/CoinTossing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/DistanceBetweenPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Elom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/GuessTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C6_Java/Sports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/GasMileage.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/GasMileage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +57,25 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DistanceBetweenPoints">
-    <configuration name="CoinTossing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.CoinTossing" />
+  <component name="RunManager" selected="Application.Array">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.Array" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.Craps" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -92,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Elom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.Elom" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C6_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C6_Java.GuessTheNumber" />
       <module name="Java_at_Semicolon" />
@@ -118,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sports" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.Sports" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.PerfectNumber" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Craps" />
+        <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.DistanceBetweenPoints" />
         <item itemvalue="Application.GuessTheNumber" />
-        <item itemvalue="Application.Elom" />
-        <item itemvalue="Application.CoinTossing" />
-        <item itemvalue="Application.Sports" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +166,10 @@
       <workItem from="1652703384626" duration="41000" />
       <workItem from="1652714397401" duration="23569000" />
       <workItem from="1652820092373" duration="601000" />
+      <workItem from="1652820748780" duration="1031000" />
+      <workItem from="1652861110655" duration="2397000" />
+      <workItem from="1652864069565" duration="8461000" />
+      <workItem from="1652947076251" duration="10172000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -396,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652727129708</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="updates">
+      <created>1652820859482</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652820859482</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

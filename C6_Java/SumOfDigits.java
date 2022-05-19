@@ -19,6 +19,10 @@ public class SumOfDigits {
     }
 
     private static int sumChars(String num) {
+        int sum =0;
+//        for (int i = 0; i < num.length() ; i++) {
+//            su
+//        }
         return getNumVal(num, 0) + getNumVal(num, 1) + getNumVal(num, 2) + getNumVal(num, 3);
     }
 
