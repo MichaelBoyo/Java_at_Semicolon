@@ -47,13 +47,17 @@ public class Array {
 //        System.out.println("the smallest is "+smallest);
 //        System.out.println("the largest is "+largest);
         int[] newArray = {1,3,4,5,66,67,-55};
-        for (int i = 0; i <newArray.length ; i++) {
-           int random = (int) (Math.random() *10);
-           try {
-               System.out.println("array at random index "+random+" is "+ newArray[random]);
-           }catch (ArrayIndexOutOfBoundsException e){
-               System.out.println("Invalid index encountered");
-           }
+//        for (int i = 0; i <newArray.length ; i++) {
+//           int random = (int) (Math.random() *10);
+//           try {  n
+//               System.out.println("array at random index "+random+" is "+ newArray[random]);
+//           }catch (ArrayIndexOutOfBoundsException e){
+//               System.out.println("Invalid index encountered");
+//           }
+//        }
+        for(int j: newArray){
+            System.out.println(j*10);
         }
+        // pass by value and pass by reference
     }
 }

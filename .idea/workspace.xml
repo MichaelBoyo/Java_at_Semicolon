@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/TableOfBinaryOctalAndHexadecimalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/MultiDimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Stuff.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Hotel">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C7_Java.Array" />
       <module name="Java_at_Semicolon" />
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Craps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.Craps" />
+    <configuration name="Hotel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.Hotel" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C6_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DistanceBetweenPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.DistanceBetweenPoints" />
+    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.MultiDimensionalArray" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C6_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.GuessTheNumber" />
+    <configuration name="Stuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.Stuff" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C6_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C6_Java.PerfectNumber" />
+    <configuration name="TableOfBinaryOctalAndHexadecimalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.TableOfBinaryOctalAndHexadecimalNumbers" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hotel" />
+        <item itemvalue="Application.MultiDimensionalArray" />
+        <item itemvalue="Application.TableOfBinaryOctalAndHexadecimalNumbers" />
+        <item itemvalue="Application.Stuff" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Craps" />
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.DistanceBetweenPoints" />
-        <item itemvalue="Application.GuessTheNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +171,8 @@
       <workItem from="1652820748780" duration="1031000" />
       <workItem from="1652861110655" duration="2397000" />
       <workItem from="1652864069565" duration="8461000" />
-      <workItem from="1652947076251" duration="10172000" />
+      <workItem from="1652947076251" duration="22630000" />
+      <workItem from="1652980615756" duration="6591000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -402,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652820859482</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="updates">
+      <created>1652957990013</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652957990013</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,5 +423,15 @@
     <MESSAGE value="new repo" />
     <MESSAGE value="updates" />
     <option name="LAST_COMMIT_MESSAGE" value="updates" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
