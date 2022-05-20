@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C6_Java/TableOfBinaryOctalAndHexadecimalNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/MultiDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/Stuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/ComputerAssistedInstruction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/TableOfBinaryOctalAndHexadecimalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/TableOfBinaryOctalAndHexadecimalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/Hotel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +60,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hotel">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.Array" />
+  <component name="RunManager" selected="Application.ComputerAssistedInstruction">
+    <configuration name="ComputerAssistedInstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C6_Java.ComputerAssistedInstruction" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
+          <option name="PATTERN" value="C6_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComputerAssistedInstruction" />
+        <item itemvalue="Application.TableOfBinaryOctalAndHexadecimalNumbers" />
         <item itemvalue="Application.Hotel" />
         <item itemvalue="Application.MultiDimensionalArray" />
-        <item itemvalue="Application.TableOfBinaryOctalAndHexadecimalNumbers" />
         <item itemvalue="Application.Stuff" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +170,9 @@
       <workItem from="1652861110655" duration="2397000" />
       <workItem from="1652864069565" duration="8461000" />
       <workItem from="1652947076251" duration="22630000" />
-      <workItem from="1652980615756" duration="6591000" />
+      <workItem from="1652980615756" duration="7733000" />
+      <workItem from="1652994009534" duration="8012000" />
+      <workItem from="1653002654112" duration="1982000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -412,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652957990013</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="updates">
+      <created>1652987321003</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652987321003</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,30 +5,26 @@ import java.util.Scanner;
 public class Hotel {
     static String[] name = new String[10];
     static Scanner input = new Scanner(System.in);
-
     public static void main(String[] args) {
-
-
-        int in = 0;
-        for (int i = 0; in != -1; i++) {
+        int entry = 0;
+        while (entry != -1) {
             int random = (int) (Math.random() * 10);
-            System.out.println("enter 1 to book a room: ");
-            System.out.println("enter 2 to check out: ");
-            System.out.println("enter 3 to check rooms status: ");
-            System.out.println("enter -1 to exit");
-            in = input.nextInt();
-            switch (in) {
+            String menu = ("""
+                    enter 1 to book a room
+                    enter 2 to check out
+                    enter 3 to check rooms status
+                    enter -1 to exit:
+                    """);
+            System.out.println(menu);
+            entry = input.nextInt();
+            switch (entry) {
                 case 1 -> book_A_Room(random);
                 case 2 -> checkOut();
                 case 3 -> roomStatus();
             }
-
         }
     }
-
-
     public static void book_A_Room(int roomNumber) {
-
         if (name[roomNumber] == null) {
             System.out.println("Enter your name: ");
             name[roomNumber] = input.next();
@@ -60,7 +56,6 @@ public class Hotel {
         }
 
     }
-
     public static void checkOut() {
         System.out.println("Enter room number");
         int room = input.nextInt();
@@ -68,7 +63,6 @@ public class Hotel {
         System.out.println("you've successfully checked out");
 
     }
-
     public static void roomStatus() {
         for (int i = 0; i < name.length; i++) {
             if (name[i] == null) {
