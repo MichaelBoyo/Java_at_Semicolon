@@ -3,28 +3,12 @@ package C7_Java;
 import java.util.Scanner;
 
 public class Hotel {
-    static String[] name = new String[10];
-    static Scanner input = new Scanner(System.in);
-    public static void main(String[] args) {
-        int entry = 0;
-        while (entry != -1) {
-            int random = (int) (Math.random() * 10);
-            String menu = ("""
-                    enter 1 to book a room
-                    enter 2 to check out
-                    enter 3 to check rooms status
-                    enter -1 to exit:
-                    """);
-            System.out.println(menu);
-            entry = input.nextInt();
-            switch (entry) {
-                case 1 -> book_A_Room(random);
-                case 2 -> checkOut();
-                case 3 -> roomStatus();
-            }
-        }
+    public Hotel (int room){
     }
-    public static void book_A_Room(int roomNumber) {
+    String[] name = new String[10];
+    Scanner input = new Scanner(System.in);
+
+    public  void book_A_Room(int roomNumber) {
         if (name[roomNumber] == null) {
             System.out.println("Enter your name: ");
             name[roomNumber] = input.next();
@@ -56,18 +40,18 @@ public class Hotel {
         }
 
     }
-    public static void checkOut() {
+    public  void checkOut() {
         System.out.println("Enter room number");
         int room = input.nextInt();
-        name[room - 1] = null;
-        System.out.println("you've successfully checked out");
 
+        System.out.printf("%s has successfully checked out%n",name[room-1]);
+        name[room - 1] = null;
     }
-    public static void roomStatus() {
+    public  void roomStatus() {
         for (int i = 0; i < name.length; i++) {
             if (name[i] == null) {
-                System.out.println("room " + (i + 1) + " is empty");
-            } else System.out.println("room " + (i + 1) + " is occupied by " + name[i]);
+                System.out.println("Room " + (i + 1) + " is empty");
+            } else System.out.println("Room " + (i + 1) + " is occupied by " + name[i]);
 
         }
         System.out.println();
