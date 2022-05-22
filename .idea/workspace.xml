@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/BabeeHotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/HotelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooleanComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/pos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/Comparisonace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BooleanComparisonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/ComparisonaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_at_Semicolon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_at_Semicolon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,44 +46,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "extract.method.default.visibility": "private",
+    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/Chibuzo_Assg",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Chibuzo_Assg" />
+      <recent name="" />
       <recent name="C7_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentGradeTrackerTest.testPosition">
+  <component name="RunManager" selected="JUnit.StudentGradeTrackerTest.sub1BestAndWorstStudent">
     <configuration name="BoboSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.BoboSchool" />
       <module name="Java_at_Semicolon" />
@@ -112,6 +113,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentGradeTrackerTest.largestScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
+      <option name="METHOD_NAME" value="largestScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentGradeTrackerTest.sub1BestAndWorstStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
+      <option name="METHOD_NAME" value="sub1BestAndWorstStudent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StudentGradeTrackerTest.testAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
@@ -128,45 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeTrackerTest.testPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="METHOD_NAME" value="testPosition" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGradeTrackerTest.testTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="METHOD_NAME" value="testTotal" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentGradeTrackerTest.testPosition" />
-        <item itemvalue="JUnit.StudentGradeTrackerTest.testAverage" />
-        <item itemvalue="JUnit.StudentGradeTrackerTest.testTotal" />
+        <item itemvalue="JUnit.StudentGradeTrackerTest.sub1BestAndWorstStudent" />
         <item itemvalue="JUnit.StudentGradeTrackerTest" />
         <item itemvalue="Application.BoboSchool" />
+        <item itemvalue="JUnit.StudentGradeTrackerTest.testAverage" />
+        <item itemvalue="JUnit.StudentGradeTrackerTest.largestScore" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,9 @@
       <workItem from="1653035066547" duration="709000" />
       <workItem from="1653043965234" duration="2775000" />
       <workItem from="1653066025288" duration="36808000" />
-      <workItem from="1653126266822" duration="30381000" />
+      <workItem from="1653126266822" duration="42400000" />
+      <workItem from="1653171503535" duration="21670000" />
+      <workItem from="1653225959561" duration="26470000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -466,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653005580007</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="updates">
+      <created>1653156994716</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1653156994716</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,21 +495,12 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java</url>
-          <line>50</line>
-          <properties class="Chibuzo_Assg.StudentGradeTracker" method="getPosition">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
