@@ -1,7 +1,5 @@
 package Chibuzo_Assg;
 
-import java.util.Arrays;
-
 class StudentGradeTracker {
     int getScores(int subject, int student) {
         return scores[subject - 1][student - 1];
@@ -58,17 +56,16 @@ class StudentGradeTracker {
         }
     }
 
-    int getStudentTotal(int subjectNo) {
+    int getStudentTotal(int studentNo) {
 
         for (int i = 0; i < subjects; i++) {
             for (int j = 0; j < students; j++) {
-                if (scores[subjectNo - 1][j] == scores[i][j]) {
-                    total[subjectNo - 1] += scores[subjectNo - 1][j];
-
+                if (scores[studentNo - 1][j] == scores[i][j]) {
+                    total[studentNo - 1] += scores[studentNo - 1][j];
                 }
             }
         }
-        return total[subjectNo - 1];
+        return total[studentNo - 1];
     }
 
     int getSubjectsTotal(int sub) {
@@ -170,7 +167,8 @@ class StudentGradeTracker {
         for (int i = 0; i < subjects; i++) {
             for (int j = 0; j < students; j++) {
                 if (scores[i][j] == lowest) {
-                    worstStudent = "Student " + (j + 1) + " Scoring " + lowest;
+                    worstStudent = "Student " + (i + 1) + " Scoring " + lowest;
+                    break;
 
                 }
             }
@@ -197,6 +195,7 @@ class StudentGradeTracker {
 
         return sub1BestStudent;
     }
+
     String getSub1WorstStudent() {
         int highestSub1 = scores[0][0];
         for (int i = 0; i < subjects; i++) {
@@ -313,9 +312,19 @@ class StudentGradeTracker {
         return sub2BestStudent;
     }
 
-    int getAverage(int subjectNo) {
+    int getAverage(int studentTotal) {
+        int average = studentTotal / students;
 
-        return  total[subjectNo - 1] / students;
+
+        for (int i = 0; i < subjects; i++) {
+            if (studentAverages[i] == 0) {
+                studentAverages[i] = average;
+                break;
+            }
+
+        }
+
+        return average;
     }
 
     int students;
@@ -324,13 +333,18 @@ class StudentGradeTracker {
     int largest;
     int lowest;
 
-    int getTotal(int subject) {
+    int getTotal(int[] studentScores) {
+        int total = 0;
+        for (int i = 0; i < students; i++) {
+            total += studentScores[i];
+        }
 
-        return total[subject - 1];
+        return total;
     }
 
     int[] total;
     int[] totalSort;
+    int[] studentAverages;
     int[] position;
     int totalScore1;
     int totalScore2;
@@ -346,6 +360,7 @@ class StudentGradeTracker {
 
     StudentGradeTracker(int subjects, int students) {
         this.subjects = subjects;
+        studentAverages = new int[subjects];
         scores = new int[subjects][students];
         this.students = students;
         total = new int[students];
@@ -368,37 +383,47 @@ class StudentGradeTracker {
 
             averageScore[i] = getAverage(i + 1);
         }
-        averageScore = removeDuplicates(averageScore);
-        averageScore = sortAndReverseStudentAverageScore(averageScore);
+//        averageScore = removeDuplicates(averageScore);
+//        averageScore = sortAndReverseStudentAverageScore(averageScore);
         return getStudentPosition(averageScore, studentAverage);
     }
 
-    private int[] removeDuplicates(int[] averageScore) {
-        int[] averageScoreWithoutDuplicates = new int[students];
-        for (int i = 0; i < students; i++) {
+    public int[] getScore(int studentNo) {
+        int[] studentScore = new int[subjects];
 
-            for (int j = 0; j < students; j++) {
-                if (averageScoreWithoutDuplicates[j] == 0) {
-                    averageScoreWithoutDuplicates[j] = averageScore[i];
-                    break;
-                }
-                if (averageScoreWithoutDuplicates[j] == averageScore[i]) {
-                    break;
-                }
+        for (int j = 0; j < subjects; j++) {
+            studentScore[j] = scores[studentNo - 1][j];
+        }
+
+        return studentScore;
+    }
+
+    public int getPosition(int[] Averages, int studentNo) {
+        int position1 = Averages[0];
+        int position2 = Averages[0];
+        int position3 = Averages[0];
+
+        for (int i = 0; i < Averages.length; i++) {
+            if (Averages[i] > position1) {
+                position2 = position3;
+                position2 = position1;
+                position1 = Averages[i];
             }
         }
-        averageScore = averageScoreWithoutDuplicates;
-        return averageScore;
+        int position = 0;
+
+        if (Averages[studentNo - 1] == position1) {
+            position = 1;
+        }
+        if (Averages[studentNo - 1] == position2) {
+            position = 2;
+        }
+        if (Averages[studentNo - 1] == position3) {
+            position = 3;
+        }
+
+
+        return position;
     }
 
-    private int[] sortAndReverseStudentAverageScore(int[] averageScore) {
-        Arrays.sort(averageScore);
-        int[] reversed = new int[students];
-        int size = students;
-        for (int a : averageScore) {
-            reversed[size - 1] = a;
-            size--;
-        }
-        return reversed;
-    }
 }

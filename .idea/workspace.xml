@@ -5,12 +5,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BooleanComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/pos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/Comparisonace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanComparisonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/ComparisonaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayListCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/DeckOfCardsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/InitializeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/PixelQuantization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/RollDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/StudentPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/ArrayOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/OverlappingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/TicTacToeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CompoundValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/FactorialValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/MathPowManual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/NumCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CompoundValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/FactorialValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/MathPowManual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/NumCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" afterDir="false" />
@@ -46,47 +95,73 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "extract.method.default.visibility": "private",
-    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/Chibuzo_Assg",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="C7_Java" />
       <recent name="Chibuzo_Assg" />
       <recent name="" />
-      <recent name="C7_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StudentGradeTrackerTest.sub1BestAndWorstStudent">
-    <configuration name="BoboSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.BoboSchool" />
+  <component name="RunManager" selected="Application.ArrayOps">
+    <configuration name="ArrayListCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ArrayListCollection" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ArrayManipulations" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.ArrayOps" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -98,64 +173,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeTrackerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PixelQuantization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.PixelQuantization" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentGradeTrackerTest.largestScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeTest.testThat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="METHOD_NAME" value="largestScore" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGradeTrackerTest.sub1BestAndWorstStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="METHOD_NAME" value="sub1BestAndWorstStudent" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentGradeTrackerTest.testAverage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Chibuzo_Assg" />
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.StudentGradeTrackerTest" />
-      <option name="METHOD_NAME" value="testAverage" />
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TicTacToeTest" />
+      <option name="METHOD_NAME" value="testThat" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentGradeTrackerTest.sub1BestAndWorstStudent" />
-        <item itemvalue="JUnit.StudentGradeTrackerTest" />
-        <item itemvalue="Application.BoboSchool" />
-        <item itemvalue="JUnit.StudentGradeTrackerTest.testAverage" />
-        <item itemvalue="JUnit.StudentGradeTrackerTest.largestScore" />
+        <item itemvalue="Application.ArrayOps" />
+        <item itemvalue="Application.PixelQuantization" />
+        <item itemvalue="JUnit.TicTacToeTest.testThat" />
+        <item itemvalue="Application.ArrayListCollection" />
+        <item itemvalue="Application.ArrayManipulations" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +256,17 @@
       <workItem from="1653066025288" duration="36808000" />
       <workItem from="1653126266822" duration="42400000" />
       <workItem from="1653171503535" duration="21670000" />
-      <workItem from="1653225959561" duration="26470000" />
+      <workItem from="1653225959561" duration="27104000" />
+      <workItem from="1653287902911" duration="2694000" />
+      <workItem from="1653293847119" duration="277000" />
+      <workItem from="1653304053623" duration="19182000" />
+      <workItem from="1653337672579" duration="5644000" />
+      <workItem from="1653353290768" duration="103000" />
+      <workItem from="1653381179034" duration="69000" />
+      <workItem from="1653381316123" duration="3303000" />
+      <workItem from="1653388696797" duration="5192000" />
+      <workItem from="1653421453952" duration="9307000" />
+      <workItem from="1653466585557" duration="7265000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -476,11 +527,29 @@
       <option name="project" value="LOCAL" />
       <updated>1653156994716</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="updates">
+      <created>1653259947004</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1653259947004</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -495,6 +564,29 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java</url>
+          <line>390</line>
+          <properties class="Chibuzo_Assg.StudentGradeTracker" method="getScore">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java</url>
+          <line>280</line>
+          <properties class="Chibuzo_Assg.StudentGradeTracker" method="getSub2BestStudent">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/C7_Java/StudentPoll.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
