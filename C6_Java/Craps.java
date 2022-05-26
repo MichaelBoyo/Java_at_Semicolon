@@ -16,8 +16,8 @@ public class Craps {
     private static final int SEVEN = 7;
     private static final int YO_LEVEN = 11;
     private static final int BOX_CARS = 12;
-    static Scanner input = new Scanner(System.in);
-    public static int bankBalance;
+    public static Scanner input = new Scanner(System.in);
+    private static int bankBalance;
 
 
     public static void main(String[] args) {
@@ -73,7 +73,7 @@ public class Craps {
         }
     }
 
-    public static int rollDice() {
+    static int rollDice() {
         int die1 = 1 + randomNumbers.nextInt(6);
         int die2 = 1 + randomNumbers.nextInt(6);
 
@@ -83,7 +83,7 @@ public class Craps {
         return sum;
     }
 
-    public static void chatter() {
+     static void chatter() {
         if (gameStatus == Status.WON) {
             System.out.println("You're Big up.. Now's the time to cash-out");
         } else {

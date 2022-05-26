@@ -5,64 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayListCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/DeckOfCardsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/GradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/InitializeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/PixelQuantization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/RollDie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/StudentPoll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/ArrayOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chibuzo_Assg/OverlappingElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/TicTacToeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/AirlineReservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Archery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayDuplicateEliminationAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/BoyoAir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/CrapsMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/DuplicateElimination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/RollDie_C7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/VariableLengthArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/AirlineReservationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/ArcheryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CompoundValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/FactorialValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/MathPowManual.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/NumCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C3_Java/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/AreaOfTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/BarchartPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CalculateInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CompoundValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/ComputingBMI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/CostOfDriving.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/DaysOfChristmas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/DoWhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/FactorialValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/InvestmentValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/LargestAndSmallest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/MathPowManual.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/NumCounter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/PyramidPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/RandomNumberGuess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/SumOfEvenAndOddIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/SumOfNaturalNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C5_Java/Chibuzo_Assg/TrianglePrintingProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/PrimeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/BoboSchool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chibuzo_Assg/StudentGradeTracker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C6_Java/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +28,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -133,9 +88,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayOps">
-    <configuration name="ArrayListCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ArrayListCollection" />
+  <component name="RunManager" selected="JUnit.ArcheryTest">
+    <configuration name="BoyoAir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.BoyoAir" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -147,46 +102,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ArrayManipulations" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.ArrayOps" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chibuzo_Assg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PixelQuantization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.PixelQuantization" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToeTest.testThat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AirlineReservationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -195,8 +111,54 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.TicTacToeTest" />
-      <option name="METHOD_NAME" value="testThat" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.AirlineReservationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirlineReservationTest.testThatEconomyCanBeBooked" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.AirlineReservationTest" />
+      <option name="METHOD_NAME" value="testThatEconomyCanBeBooked" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArcheryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ArcheryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArcheryTest.testThatPlayerCanPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ArcheryTest" />
+      <option name="METHOD_NAME" value="testThatPlayerCanPlay" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -204,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayOps" />
-        <item itemvalue="Application.PixelQuantization" />
-        <item itemvalue="JUnit.TicTacToeTest.testThat" />
-        <item itemvalue="Application.ArrayListCollection" />
-        <item itemvalue="Application.ArrayManipulations" />
+        <item itemvalue="JUnit.ArcheryTest" />
+        <item itemvalue="JUnit.ArcheryTest.testThatPlayerCanPlay" />
+        <item itemvalue="Application.BoyoAir" />
+        <item itemvalue="JUnit.AirlineReservationTest" />
+        <item itemvalue="JUnit.AirlineReservationTest.testThatEconomyCanBeBooked" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +228,10 @@
       <workItem from="1653381316123" duration="3303000" />
       <workItem from="1653388696797" duration="5192000" />
       <workItem from="1653421453952" duration="9307000" />
-      <workItem from="1653466585557" duration="7265000" />
+      <workItem from="1653466585557" duration="19094000" />
+      <workItem from="1653510245929" duration="4765000" />
+      <workItem from="1653534789602" duration="12962000" />
+      <workItem from="1653552612094" duration="2369000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -534,7 +499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653259947004</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="updates">
+      <created>1653483128315</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1653483128315</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
