@@ -38,7 +38,7 @@ public class SalesCommissionCalculator {
         System.out.print("Enter number of item4 sold: ");
         int noOfItem4 = scanner.nextInt();
 
-        double total4 = (double) noOfItem3 * item4;
+        double total4 = (double) noOfItem4 * item4;
         item4Earnings = (0.09 * total4) + 200;
 
         System.out.println();

@@ -5,19 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/AirlineReservation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/Archery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/ArrayDuplicateEliminationAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/BoyoAir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/CrapsMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/DuplicateElimination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/Label.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/RollDie_C7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C7_Java/VariableLengthArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/AirlineReservationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/ArcheryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ArcheryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/CustomerAndCashierName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ShoppingCartItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ShoppingCartMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/TicTacToeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/TurtleGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C8_Java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/BillingInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/CreditCardInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/EStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/EStoreCardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Items.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Sellers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EStore/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/TurtleGraphicsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C8_Java/RectangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/Craps.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/Craps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C4_Java/SalesCommissionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/SalesCommissionCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C7_Java/TicTacToeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C7_Java/TicTacToeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +42,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,6 +78,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -84,13 +99,27 @@
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="C7_Java" />
+      <recent name="C8_Java" />
       <recent name="Chibuzo_Assg" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArcheryTest">
-    <configuration name="BoyoAir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.BoyoAir" />
+  <component name="RunManager" selected="Application.TicTacToeMain">
+    <configuration name="SalesCommissionCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C4_Java.SalesCommissionCalculator" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C4_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartMain" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -102,7 +131,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirlineReservationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TicTacToeMain" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicTacToeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -111,13 +153,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.AirlineReservationTest" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TicTacToeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AirlineReservationTest.testThatEconomyCanBeBooked" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TicTacToeTest.testThat" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -126,39 +168,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.AirlineReservationTest" />
-      <option name="METHOD_NAME" value="testThatEconomyCanBeBooked" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArcheryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ArcheryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArcheryTest.testThatPlayerCanPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ArcheryTest" />
-      <option name="METHOD_NAME" value="testThatPlayerCanPlay" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TicTacToeTest" />
+      <option name="METHOD_NAME" value="testThat" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArcheryTest" />
-        <item itemvalue="JUnit.ArcheryTest.testThatPlayerCanPlay" />
-        <item itemvalue="Application.BoyoAir" />
-        <item itemvalue="JUnit.AirlineReservationTest" />
-        <item itemvalue="JUnit.AirlineReservationTest.testThatEconomyCanBeBooked" />
+        <item itemvalue="Application.TicTacToeMain" />
+        <item itemvalue="JUnit.TicTacToeTest" />
+        <item itemvalue="JUnit.TicTacToeTest.testThat" />
+        <item itemvalue="Application.SalesCommissionCalculator" />
+        <item itemvalue="Application.ShoppingCartMain" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +242,12 @@
       <workItem from="1653466585557" duration="19094000" />
       <workItem from="1653510245929" duration="4765000" />
       <workItem from="1653534789602" duration="12962000" />
-      <workItem from="1653552612094" duration="2369000" />
+      <workItem from="1653552612094" duration="15737000" />
+      <workItem from="1653583061014" duration="1232000" />
+      <workItem from="1653631548658" duration="17946000" />
+      <workItem from="1653736998026" duration="17596000" />
+      <workItem from="1653830542730" duration="6516000" />
+      <workItem from="1653843299813" duration="5763000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -506,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653483128315</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="updates">
+      <created>1653563943082</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1653563943082</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
