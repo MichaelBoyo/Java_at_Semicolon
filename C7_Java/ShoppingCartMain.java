@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class ShoppingCartMain {
     public static void main(String[] args) {
-        String userInput = "";
+        String userInput;
         Scanner scanner = new Scanner(System.in);
-        String customerName = "";
-        String cashierName = "";
+        String customerName;
+        String cashierName;
         ShoppingCart cart = new ShoppingCart();
 
         ShoppingCartItems item;

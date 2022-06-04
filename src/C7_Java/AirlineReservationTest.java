@@ -35,6 +35,7 @@ class AirlineReservationTest {
         name = "isreal";
         test.bookFlightFirstClass(name);
 
+
         for (int i = 0; i <test.seats.length/2 ; i++) {
             assertTrue(test.seats[i]);
         }

@@ -1,10 +1,14 @@
 package EStore;
 
-import java.util.ArrayList;
-
 public class Users {
-    private ArrayList<Customers> customers;
-    private ArrayList<Sellers> sellers;
-    private ArrayList<Admin> admin;
+    private int age;
+    private String emailAddress;
+    private String homeAddress;
+    private String name;
+    private String password;
+    private String phone;
+    Customers customers;
+    Sellers sellers;
+    Admin admin;
 
 }

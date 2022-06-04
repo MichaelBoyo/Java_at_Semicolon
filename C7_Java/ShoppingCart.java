@@ -100,6 +100,6 @@ public class ShoppingCart {
         subTotal = subTotal.formatted(total,discount(12),vat());
 
         double billTotal = total+vat()-discount(12);
-        return name + "\n"+"=".repeat(44)+ "\n"+header+"\n"+"-".repeat(44)+"\n"+  totalItem +"-".repeat(44)+"\n"+subTotal+"\n"+ " ".repeat(28)+"Bill Total:     "+billTotal;
+        return name + "\n"+"=".repeat(44)+ "\n"+header+"\n"+"-".repeat(44)+"\n"+  totalItem +"-".repeat(44)+"\n"+subTotal+"\n"+ " ".repeat(17)+"Bill Total:     "+billTotal;
     }
 }

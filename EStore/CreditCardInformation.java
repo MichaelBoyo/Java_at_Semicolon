@@ -9,5 +9,5 @@ public class CreditCardInformation {
     private int cardExpirationMonth;
     private int creditCardNumber;
     private String nameOnCard;
-    private ArrayList<EStoreCardType> cardType;
+    CardType cardType;
 }

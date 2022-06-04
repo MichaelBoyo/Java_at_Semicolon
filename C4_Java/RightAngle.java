@@ -23,6 +23,5 @@ public class RightAngle {
         } else {
             System.out.println("Enter base length for right-angle triangle between 1-10: ");
         }
-
     }
 }

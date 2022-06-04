@@ -7,5 +7,5 @@ public class Product {
     private String productName;
     private double price;
     private String productDescription;
-    private ArrayList<ProductCategory> categories;
+    ProductCategory categories;
 }

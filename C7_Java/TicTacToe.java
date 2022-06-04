@@ -21,12 +21,15 @@ public class TicTacToe {
             q+=3;
         }
 
-        for (String[] ints : ticTacTo) {
+        for (int i = 0; i < ticTacTo.length; i++) {
             for (int j = 0; j < ticTacTo.length; j++) {
-                System.out.print(ints[j] + "     ");
+                System.out.print(ticTacTo[i][j] + "     ");
             }
             System.out.println();
-            System.out.println("-------------");
+            if (i < 2) {
+                System.out.println("-------------");
+            }
+
         }
 
         System.out.println();
@@ -49,6 +52,7 @@ public class TicTacToe {
 
         for (int i = 0; i < ticTacTo.length; i++) {
             for (int j = 0; j < ticTacTo.length; j++) {
+
                 if (num >= 1 && num <= 3 && i == 0 && Objects.equals(ticTacTo[0][num - 1], " ")) {
                     ticTacTo[i][num - 1] = String.valueOf(plays.X);
                 }
@@ -60,21 +64,23 @@ public class TicTacToe {
                 }
             }
         }
-        for (String[] ints : ticTacTo) {
+        for (int i = 0; i < ticTacTo.length; i++) {
             for (int j = 0; j < ticTacTo.length; j++) {
-                System.out.print(ints[j] + "     ");
+                System.out.print(ticTacTo[i][j] + "     ");
             }
             System.out.println();
-            System.out.println("-------------");
+            if (i < 2) {
+                System.out.println("-------------");
+            }
+
         }
-        result1();
     }
     public int draw(){
         int result= 0;
         for (String[] strings : ticTacTo) {
             for (int j = 0; j < ticTacTo.length; j++) {
                 if (!Objects.equals(strings[j], " ")) {
-                    result += 1;
+                    result ++;
                 }
             }
         }
@@ -87,64 +93,57 @@ public class TicTacToe {
                 if (num >= 1 && num <= 3 && i == 0 && Objects.equals(ticTacTo[0][num - 1], " ")) {
                     ticTacTo[i][num - 1] = String.valueOf(plays.O);
                 }
-                if (num >= 4 && num <= 6 && i == 1 && Objects.equals(ticTacTo[1][num - 4], " ")){
-                    ticTacTo[i][num - 4] = String.valueOf(plays.O);;
+                if (num >= 4 && num <= 6 && i == 1 && Objects.equals(ticTacTo[1][num - 4], " ")) {
+                    ticTacTo[i][num - 4] = String.valueOf(plays.O);
+                    ;
                 }
                 if (num >= 7 && num <= 9 && i == 2 && Objects.equals(ticTacTo[2][num - 7], " ")) {
-                    ticTacTo[i][num - 7] = String.valueOf(plays.O);;
+                    ticTacTo[i][num - 7] = String.valueOf(plays.O);
+                    ;
                 }
             }
         }
-        for (String[] ints : ticTacTo) {
+        for (int i = 0; i < ticTacTo.length; i++) {
             for (int j = 0; j < ticTacTo.length; j++) {
-                System.out.print(ints[j] + "     ");
+                System.out.print(ticTacTo[i][j] + "     ");
             }
             System.out.println();
-            System.out.println("-------------");
+            if (i < 2) {
+                System.out.println("-------------");
+            }
+
         }
-        result2();
     }
-    public String result1(){
-        String result=" ";
-        String p=String.valueOf(plays.X);;
-        int row1 = 0, row2 =0, row3 =0;
-        int column1 =0, column2=0, column3=0;
-        int diagonal1=0, diagonal2=0;
-        for (int i = 0; i <3 ; i++) {
-            if (Objects.equals(ticTacTo[0][i], p)) {
-                row1+=1;
-            }
-            if (Objects.equals(ticTacTo[1][i], p)) {
-                row2+=1;
-            }
-            if (Objects.equals(ticTacTo[2][i], p)) {
-                row3+=1;
-            }
-            if (Objects.equals(ticTacTo[i][0], p)) {
-                column1+=1;
-            }
-            if (Objects.equals(ticTacTo[i][1], p)) {
-                column2+=1;
-            }
-            if (Objects.equals(ticTacTo[i][2], p)) {
-                column3+=1;
-            }
-            if (Objects.equals(ticTacTo[i][i], p)) {
-                diagonal1+=1;
-            }
-            if (Objects.equals(ticTacTo[i][2-i], p)) {
-                diagonal2+=1;
-            }
+
+    public String result1() {
+        String result = " ";
+        String p = String.valueOf(plays.X);
+        int row1 = 0, row2 = 0, row3 = 0;
+        int col1 = 0, col2 = 0, col3 = 0;
+        int dgn1 = 0, dgn2 = 0;
+        for (int i = 0; i < ticTacTo.length; i++) {
+            if (Objects.equals(ticTacTo[0][i], p)) row1++;
+            if (Objects.equals(ticTacTo[1][i], p)) row2++;
+            if (Objects.equals(ticTacTo[2][i], p)) row3++;
+
+            if (Objects.equals(ticTacTo[i][0], p)) col1++;
+            if (Objects.equals(ticTacTo[i][1], p)) col2++;
+            if (Objects.equals(ticTacTo[i][2], p)) col3++;
+
+            if (Objects.equals(ticTacTo[i][i], p)) dgn1++;
+            if (Objects.equals(ticTacTo[i][2 - i], p)) dgn2++;
         }
-        if (row1==3||row2==3||row3==3||column1==3||column2==3||column3==3||diagonal1==3||diagonal2==3){
-            result="Player 1 wins";
+        if (row1 == 3 || row2 == 3 || row3 == 3 || col1 == 3 || col2 == 3 || col3 == 3 || dgn1 == 3 || dgn2 == 3) {
+            result = "Player 1 wins";
         }
         return result;
     }
-    public String result2(){
-        String result=" ";
-        String p = String.valueOf(plays.O);;
-        int row1 = 0, row2 =0, row3 =0;
+
+    public String result2() {
+        String result = " ";
+        String p = String.valueOf(plays.O);
+        ;
+        int row1 = 0, row2 = 0, row3 = 0;
         int column1 =0, column2=0, column3=0;
         int diagonal1=0, diagonal2=0;
         for (int i = 0; i <3 ; i++) {

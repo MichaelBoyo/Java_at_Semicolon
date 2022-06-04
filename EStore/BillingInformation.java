@@ -1,13 +1,12 @@
 package EStore;
 
-import C7_Java.Array;
 
 import java.util.ArrayList;
 
 public class BillingInformation {
     private String receiversPhoneNumber;
     private String receiversName;
-    private ArrayList<Address> address;
+    Address address;
 
-    private ArrayList<CreditCardInformation> cardInfo;
+    CreditCardInformation cardInfo;
 }

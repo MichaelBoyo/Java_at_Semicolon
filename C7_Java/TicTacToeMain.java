@@ -1,5 +1,6 @@
 package C7_Java;
 
+import java.util.InputMismatchException;
 import java.util.Objects;
 import java.util.Scanner;
 
@@ -11,26 +12,29 @@ public class TicTacToeMain {
 
         String result = " ";
         int full =0;
-        do{
-            System.out.print("Player 1 lets Go>> ");
-            game.player1(input.nextInt());
-            result =game.result1();
-            if(Objects.equals(result, " ")){
-                System.out.print("Player 2 lets Go>> ");
-                game.player2(input.nextInt());
-                result = game.result2();
-            }
-            full = game.draw();
+        try{
+            do{
+                System.out.print("Player 1 lets Go>> ");
+                game.player1(input.nextInt());
+                result =game.result1();
+                if(Objects.equals(result, " ")){
+                    System.out.print("Player 2 lets Go>> ");
+                    game.player2(input.nextInt());
+                    result = game.result2();
+                }
+                full = game.draw();
 
 
-        }while (Objects.equals(result, " ")&& full !=9);
+            }while (Objects.equals(result, " ")&& full !=9);
+        }catch (InputMismatchException e){
+            System.out.println("Wrong Input.. restart application");
+        }
+
         if(full==9){
             System.out.println("No winner..");
         }
         if(!Objects.equals(result, " ")){
             System.out.println(result);
         }
-
-
     }
 }

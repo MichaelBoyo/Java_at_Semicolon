@@ -1,5 +1,5 @@
 package EStore;
 
-public class ProductCategory {
-    private enum categories{ELECTRONICS, GROCERIES, UTENSILS ,CLOTHING }
+public enum ProductCategory {
+    ELECTRONICS, GROCERIES, UTENSILS ,CLOTHING
 }
