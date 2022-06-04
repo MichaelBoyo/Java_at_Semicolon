@@ -5,40 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/KnightsTour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Time1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Time1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EhisClass/ComparingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EhisClass/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EhisClass/PlusMinus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EhisClass/multiDim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinApp/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Facilitators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Native.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Persons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/KnightsTourTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinApp/AccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C4_Java/RightAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/C4_Java/RightAngle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/ShoppingCartMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ShoppingCartMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/TicTacToeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TicTacToeMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/BillingInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/BillingInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/CreditCardInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/CreditCardInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Customers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/EStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/EStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/EStoreCardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/CardType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Items.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Items.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/ProductCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/ProductCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Sellers.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Sellers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/ShoppingCart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/EStore/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C7_Java/AirlineReservationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C7_Java/AirlineReservationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,35 +45,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon/src&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/untitled&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "extract.method.default.visibility": "private",
+    "full.screen.before.presentation.mode": "false",
+    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src",
+    "last_opened_file_path": "C:/Users/PC/IdeaProjects/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Diary" />
@@ -287,7 +254,7 @@
       <workItem from="1654215518038" duration="1461000" />
       <workItem from="1654236538186" duration="569000" />
       <workItem from="1654243445086" duration="10461000" />
-      <workItem from="1654331862148" duration="768000" />
+      <workItem from="1654331862148" duration="1031000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
