@@ -1,3 +1,5 @@
+package C8_Java;
+
 public class BooleanComparison {
     public boolean compare(String[] herray, String[] himray){
         if(herray.length==himray.length){
