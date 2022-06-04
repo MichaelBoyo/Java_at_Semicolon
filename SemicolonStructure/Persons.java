@@ -1,4 +1,4 @@
-package OOP;
+package SemicolonStructure;
 
 public class Persons {
     private String complexion;

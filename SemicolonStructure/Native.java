@@ -1,4 +1,4 @@
-package OOP;
+package SemicolonStructure;
 
 public class Native extends Persons{
     private int nativeId;

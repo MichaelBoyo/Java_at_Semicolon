@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartItemsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/ShoppingCartItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ShoppingCartItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EStore/Address.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EStore/Admin.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EStore/BillingInformation.java" beforeDir="false" />
@@ -283,7 +284,7 @@
       <workItem from="1654215518038" duration="1461000" />
       <workItem from="1654236538186" duration="569000" />
       <workItem from="1654243445086" duration="10461000" />
-      <workItem from="1654331862148" duration="7796000" />
+      <workItem from="1654331862148" duration="8110000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -659,6 +660,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest_testThatEntryCanBeEdited.ic" NAME="EntryTest.testThatEntryCanBeEdited Coverage Results" MODIFIED="1654105870661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartItemsTest.ic" NAME="ShoppingCartItemsTest Coverage Results" MODIFIED="1654345955959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>C7_Java.*</FILTER>
     </SUITE>
   </component>
 </project>

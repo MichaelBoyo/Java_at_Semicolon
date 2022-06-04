@@ -1,4 +1,4 @@
-package OOP;
+package SemicolonStructure;
 
 public class Facilitators extends Persons {
     private  int facilitatorId;
