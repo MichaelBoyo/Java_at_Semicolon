@@ -34,15 +34,4 @@ public class ShoppingCartItems {
         return quantity;
     }
 
-    public void setItems(String items) {
-        this.items = items;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
-
-    public void setQuantity(int quantity) {
-        this.quantity = quantity;
-    }
 }

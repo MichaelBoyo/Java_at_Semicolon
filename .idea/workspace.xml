@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartItemsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/BillingInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/CardType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/CreditCardInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Customers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/EStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Sellers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EStore/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EhisClass/ComparingArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EhisClass/MinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EhisClass/PlusMinus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EhisClass/multiDim.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +79,7 @@
     "create.test.in.the.same.root": "true",
     "extract.method.default.visibility": "private",
     "full.screen.before.presentation.mode": "false",
-    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src",
+    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java",
     "last_opened_file_path": "C:/Users/PC/IdeaProjects/untitled",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -81,82 +100,92 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="C8_Java" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="C7_Java" />
       <recent name="FinApp" />
       <recent name="Diary" />
-      <recent name="C7_Java" />
       <recent name="C8_Java" />
       <recent name="Chibuzo_Assg" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DiaryMain">
-    <configuration name="DiaryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Diary.DiaryMain" />
+  <component name="RunManager" selected="JUnit.ShoppingCartItemsTest">
+    <configuration name="ShoppingCartItemsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Diary.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RightAngle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_Java.RightAngle" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C4_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiaryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Diary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Diary" />
-      <option name="MAIN_CLASS_NAME" value="Diary.DiaryTest" />
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingCartItemsTest.getItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Diary.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Diary" />
-      <option name="MAIN_CLASS_NAME" value="Diary.EntryTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
+      <option name="METHOD_NAME" value="getItems" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntryTest.testThatIDIsUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingCartItemsTest.getPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Diary.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Diary" />
-      <option name="MAIN_CLASS_NAME" value="Diary.EntryTest" />
-      <option name="METHOD_NAME" value="testThatIDIsUnique" />
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
+      <option name="METHOD_NAME" value="getPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartItemsTest.getQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
+      <option name="METHOD_NAME" value="getQuantity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingCartItemsTest.setAndGetAmountPaid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C7_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
+      <option name="METHOD_NAME" value="setAndGetAmountPaid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DiaryMain" />
-        <item itemvalue="JUnit.EntryTest.testThatIDIsUnique" />
-        <item itemvalue="JUnit.EntryTest" />
-        <item itemvalue="JUnit.DiaryTest" />
-        <item itemvalue="Application.RightAngle" />
+        <item itemvalue="JUnit.ShoppingCartItemsTest" />
+        <item itemvalue="JUnit.ShoppingCartItemsTest.setAndGetAmountPaid" />
+        <item itemvalue="JUnit.ShoppingCartItemsTest.getQuantity" />
+        <item itemvalue="JUnit.ShoppingCartItemsTest.getPrice" />
+        <item itemvalue="JUnit.ShoppingCartItemsTest.getItems" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +283,7 @@
       <workItem from="1654215518038" duration="1461000" />
       <workItem from="1654236538186" duration="569000" />
       <workItem from="1654243445086" duration="10461000" />
-      <workItem from="1654331862148" duration="1031000" />
+      <workItem from="1654331862148" duration="7796000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -597,7 +626,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/EhisClass/PlusMinus.java</url>
+          <url>file://$PROJECT_DIR$/../HackerRank/src/HackerRank/PlusMinus.java</url>
           <line>16</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -618,6 +647,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest.ic" NAME="EntryTest Coverage Results" MODIFIED="1654245096738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1654345520538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>C7_Java.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1654125568064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
