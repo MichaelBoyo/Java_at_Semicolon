@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinApp/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinApp/AccountTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,6 +254,8 @@
       <workItem from="1654243445086" duration="10461000" />
       <workItem from="1654331862148" duration="8648000" />
       <workItem from="1654375294548" duration="11768000" />
+      <workItem from="1654429838153" duration="153000" />
+      <workItem from="1654430126453" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
