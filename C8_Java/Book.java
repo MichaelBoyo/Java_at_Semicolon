@@ -4,7 +4,6 @@ public enum Book {
     JHTP("java how to program"),
 
     ;
-
     Book(String fullName) {
     }
 }
