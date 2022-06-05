@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartItemsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/ShoppingCartTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/ShoppingCartItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ShoppingCartItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Address.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Admin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/BillingInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/CardType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/CreditCardInformation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Customers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/EStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Items.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/ProductCategory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Sellers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/ShoppingCart.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EStore/Users.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EhisClass/ComparingArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EhisClass/MinMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EhisClass/PlusMinus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EhisClass/multiDim.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,35 +45,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "extract.method.default.visibility": "private",
-    "full.screen.before.presentation.mode": "false",
-    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/untitled",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/IdeaProjects/untitled&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Diary" />
@@ -112,55 +92,48 @@
       <recent name="Chibuzo_Assg" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ShoppingCartItemsTest">
-    <configuration name="ShoppingCartItemsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.VariableLengthArgs">
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.DoWhileLoop" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartItemsTest.getItems" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FactorialValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.FactorialValue" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
-      <option name="METHOD_NAME" value="getItems" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartItemsTest.getPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathPowManual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chibuzo_Assg.MathPowManual" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
+          <option name="PATTERN" value="Chibuzo_Assg.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
-      <option name="METHOD_NAME" value="getPrice" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartItemsTest.getQuantity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartMain" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -168,15 +141,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
-      <option name="METHOD_NAME" value="getQuantity" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartItemsTest.setAndGetAmountPaid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VariableLengthArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.VariableLengthArgs" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -184,21 +154,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.ShoppingCartItemsTest" />
-      <option name="METHOD_NAME" value="setAndGetAmountPaid" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ShoppingCartItemsTest" />
-        <item itemvalue="JUnit.ShoppingCartItemsTest.setAndGetAmountPaid" />
-        <item itemvalue="JUnit.ShoppingCartItemsTest.getQuantity" />
-        <item itemvalue="JUnit.ShoppingCartItemsTest.getPrice" />
-        <item itemvalue="JUnit.ShoppingCartItemsTest.getItems" />
+        <item itemvalue="Application.VariableLengthArgs" />
+        <item itemvalue="Application.ShoppingCartMain" />
+        <item itemvalue="Application.MathPowManual" />
+        <item itemvalue="Application.FactorialValue" />
+        <item itemvalue="Application.DoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +250,8 @@
       <workItem from="1654215518038" duration="1461000" />
       <workItem from="1654236538186" duration="569000" />
       <workItem from="1654243445086" duration="10461000" />
-      <workItem from="1654331862148" duration="8110000" />
+      <workItem from="1654331862148" duration="8648000" />
+      <workItem from="1654375294548" duration="11768000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
