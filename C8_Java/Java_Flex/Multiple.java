@@ -1,4 +1,4 @@
-package Java_Flex;
+package C8_Java.Java_Flex;
 
 import java.util.Scanner;
 public class Multiple {

@@ -2,7 +2,7 @@ package C6_Java;
 
 import java.util.Scanner;
 
-import static Java_Flex.Ober2.display;
+import static C8_Java.Java_Flex.Ober2.display;
 
 public class RoundingNumbers {
     public static void roundNumber() {

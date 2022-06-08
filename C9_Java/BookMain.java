@@ -9,6 +9,7 @@ public class BookMain {
         PrintBook book = new PrintBook("Java","1998","Dietel",
                 "bobo","Boyo prints","EDE-45-55-012");
         System.out.println(book);
+//        PrintBook book1 = (PrintBook) new Book("java","233","ur","tr");
 
     }
 }

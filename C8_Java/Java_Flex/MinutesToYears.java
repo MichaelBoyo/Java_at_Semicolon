@@ -1,4 +1,4 @@
-package Java_Flex;// Convert MinutesToYears.java
+package C8_Java.Java_Flex;// Convert MinutesToYears.java
 //Boyo 04.10.2022
 import java.util.Scanner;
 public class MinutesToYears { 						

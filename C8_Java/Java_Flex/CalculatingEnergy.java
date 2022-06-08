@@ -1,4 +1,4 @@
-package Java_Flex;// Calculating Energy
+package C8_Java.Java_Flex;// Calculating Energy
 //Boyo 04.10.2022
 import java.util.Scanner;   						
 public class CalculatingEnergy { 						

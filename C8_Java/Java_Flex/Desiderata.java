@@ -1,4 +1,4 @@
-package Java_Flex;
+package C8_Java.Java_Flex;
 
 // SNIPPET FROM DESIDERATA
 public class Desiderata {

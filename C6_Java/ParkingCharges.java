@@ -2,8 +2,8 @@ package C6_Java;
 
 import java.util.Scanner;
 
-import static Java_Flex.Ober.displayln;
-import static Java_Flex.Ober2.display;
+import static C8_Java.Java_Flex.Ober.displayln;
+import static C8_Java.Java_Flex.Ober2.display;
 
 public class ParkingCharges {
     private static final int chargesPer3Hours = 2;

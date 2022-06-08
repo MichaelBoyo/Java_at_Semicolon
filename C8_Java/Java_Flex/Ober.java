@@ -1,34 +1,40 @@
-package Java_Flex;
+package C8_Java.Java_Flex;
+// press play
+//display how may questions do you want
+// collect input
+// display random questions with random 1st number, 2nd number and random symbol
+// use random numbers and verify the answers
+// print score
+
+// keep serving questions till he gets 5 correctly
 
 import java.util.Random;
 import java.util.Scanner;
 
-import static Java_Flex.Ober.displayAndCountCorrectAnswer;
-import static Java_Flex.Ober.displayln;
 
-public class Ober2 {
+public class Ober {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random(50);
-        displayln("you must get at least 5 correctly to end");
 
+        display("how many questions do you want? ");
+        int questionChoices = scanner.nextInt();
 
         int correctAnswer = 0;
         int wrongAnswer = 0;
-        String operators = "+-/*%^";
-
+        String operator = "+-/*%^";
 
         int i = 1;
-        do {
-            char operator = getRandomOperator(random, operators);
+        while (i <= questionChoices) {
+            char opera = operator.charAt(random.nextInt(operator.length()));
             int a;
             int b;
             a = printRandom(random);
-            printChar(operator);
+            System.out.print(opera);
             b = printRandom(random);
             display(":");
             long input = scanner.nextLong();
-            switch (operator) {
+            switch (opera) {
 
                 case '*' -> {
                     if (input == (long) a * b) {
@@ -47,6 +53,7 @@ public class Ober2 {
                     }
                 }
                 case '+' -> {
+
                     if (input == a + b) {
                         correctAnswer = displayAndCountCorrectAnswer(correctAnswer);
                     } else {
@@ -78,19 +85,19 @@ public class Ober2 {
                         wrongAnswer++;
                     }
                 }
+
             }
             i++;
-        } while (correctAnswer != 5);
+        }
         int finalScore = correctAnswer - wrongAnswer;
         System.out.printf("You got %d right and %d wrong. so your score is %d", correctAnswer, wrongAnswer, finalScore);
+
     }
 
-    private static void printChar(char operator) {
-        System.out.print(operator);
-    }
-
-    private static char getRandomOperator(Random random, String operator) {
-        return operator.charAt(random.nextInt(operator.length()));
+    static int displayAndCountCorrectAnswer(int correctAnswer) {
+        displayln("correct");
+        correctAnswer++;
+        return correctAnswer;
     }
 
     private static int printRandom(Random random) {
@@ -102,4 +109,13 @@ public class Ober2 {
     public static void display(String message) {
         System.out.print(message);
     }
+
+    public static void displayln(String message) {
+        System.out.println(message);
+    }
+    public static void displayln(double message) {
+        System.out.println(message);
+    }
+
+
 }

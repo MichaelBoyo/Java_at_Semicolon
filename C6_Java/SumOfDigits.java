@@ -2,7 +2,7 @@ package C6_Java;
 
 import java.util.Scanner;
 
-import static Java_Flex.Ober.displayln;
+import static C8_Java.Java_Flex.Ober.displayln;
 
 public class SumOfDigits {
     private static void digitsSum() {

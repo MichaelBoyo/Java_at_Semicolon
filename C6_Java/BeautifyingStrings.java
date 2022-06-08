@@ -3,8 +3,6 @@ package C6_Java;
 
 import java.util.Scanner;
 
-import static Java_Flex.Ober2.display;
-
 public class BeautifyingStrings {
     private static String addFullStop(String string){
         String result = null;

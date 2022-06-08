@@ -1,6 +1,6 @@
 package C6_Java;
 
-import static Java_Flex.Ober.displayln;
+import static C8_Java.Java_Flex.Ober.displayln;
 
 public class DistanceBetweenPoints {
     public static double distance(double x1,double x2, double y1,double y2){

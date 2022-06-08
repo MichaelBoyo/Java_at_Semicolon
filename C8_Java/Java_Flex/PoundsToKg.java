@@ -1,4 +1,4 @@
-package Java_Flex;// Convert Feet PoundsToKg.java
+package C8_Java.Java_Flex;// Convert Feet PoundsToKg.java
 import java.util.Scanner;
 
 public class PoundsToKg { 						
