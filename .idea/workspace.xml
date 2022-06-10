@@ -5,74 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C10_Java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Boyo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C10_Java/payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/CalculateTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/CalculatingEnergy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Comparism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/ConvertFeet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Desiderata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/IVR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/IVR2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/IVR3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/MinutesToYears.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/ObeEdit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Ober.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Ober2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/OneOrZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/PoundsToKg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/Zubu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C8_Java/Java_Flex/position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C9_Java/CarLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C9_Java/HomeLoan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C9_Java/Loan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C9_Java/LoanApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C9_Java/PersonalLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C10_Java/PolymorphismTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C11_Java/Cause.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C11_Java/Cohort11_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/ArraylistTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/TortoiseAndHare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C7_Java/TortoiseAndHareMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C7_Java/TortoiseAndHareTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/BeautifyingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/BeautifyingStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/DistanceBetweenPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/DistanceBetweenPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/ParkingCharges.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/ParkingCharges.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/RoundingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/RoundingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C9_Java/BookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/C9_Java/BookMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Addition.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Arithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Calc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/CalculateTwoNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/CalculatingEnergy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Comparism.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/ConvertFeet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Desiderata.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/IVR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/IVR2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/IVR3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/MinutesToYears.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Multiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/ObeEdit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Ober.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Ober2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/OneOrZero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/PoundsToKg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Flex/Zubu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C10_Java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/C10_Java/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/TicTacToeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TicTacToeMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -128,7 +71,7 @@
     "create.test.in.the.same.root": "true",
     "extract.method.default.visibility": "private",
     "full.screen.before.presentation.mode": "false",
-    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java",
+    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src",
     "last_opened_file_path": "C:/Users/PC/IdeaProjects/Java_at_Semicolon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -163,13 +106,13 @@
       <recent name="Chibuzo_Assg" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cat">
-    <configuration name="C8_Java.Java_Flex.position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C8_Java.Java_Flex.position" />
+  <component name="RunManager" selected="Application.Cause">
+    <configuration name="Cause" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C11_Java.Cause" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C8_Java.Java_Flex.*" />
+          <option name="PATTERN" value="C11_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C10_Java.Cat" />
+    <configuration name="TortoiseAndHareMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TortoiseAndHareMain" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C10_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,52 +133,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Goat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C10_Java.Goat" />
+    <configuration name="TortoiseAndHareTest.hareMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C10_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TortoiseAndHareTest" />
+      <option name="METHOD_NAME" value="hareMove" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eSchool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C10_Java.eSchool" />
+    <configuration name="TortoiseAndHareTest.tortoiseCanMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C10_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TortoiseAndHareTest" />
+      <option name="METHOD_NAME" value="tortoiseCanMove" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="position" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Flex.position" />
+    <configuration name="TortoiseAndHareTest.tortoiseMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Flex.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="C7_Java" />
+      <option name="MAIN_CLASS_NAME" value="C7_Java.TortoiseAndHareTest" />
+      <option name="METHOD_NAME" value="tortoiseMove" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cat" />
-        <item itemvalue="Application.Goat" />
-        <item itemvalue="Application.eSchool" />
-        <item itemvalue="Application.C8_Java.Java_Flex.position" />
-        <item itemvalue="Application.position" />
+        <item itemvalue="Application.Cause" />
+        <item itemvalue="Application.TortoiseAndHareMain" />
+        <item itemvalue="JUnit.TortoiseAndHareTest.tortoiseMove" />
+        <item itemvalue="JUnit.TortoiseAndHareTest.hareMove" />
+        <item itemvalue="JUnit.TortoiseAndHareTest.tortoiseCanMove" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +284,11 @@
       <workItem from="1654604872420" duration="12000" />
       <workItem from="1654631461634" duration="10102000" />
       <workItem from="1654674078353" duration="11859000" />
-      <workItem from="1654698370879" duration="1911000" />
+      <workItem from="1654698370879" duration="4042000" />
+      <workItem from="1654719941927" duration="6839000" />
+      <workItem from="1654760622972" duration="853000" />
+      <workItem from="1654847405253" duration="688000" />
+      <workItem from="1654859478776" duration="11788000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
