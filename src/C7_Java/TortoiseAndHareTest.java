@@ -15,7 +15,10 @@ class TortoiseAndHareTest {
 
     @Test
     void weHave70Squares() {
-        assertEquals(70, race.getNumberOfSquares());
+        while (race.getTortoiseMove()<70){
+            race.tortoiseMove("->");
+        }
+        assertEquals(70, race.getTortoiseMove());
     }
 
     @Test
@@ -23,17 +26,15 @@ class TortoiseAndHareTest {
         for (int i = 0; i < 70; i++) {
             race.tortoiseMove("->");
         }
-        race.printTortoiseTrack();
         System.out.println();
-        for (int i = 0; i < 70; i++) {
-            race.hareMove("+");
-        }
-        race.printHareTrack();
+
     }
 
     @Test
     void hareMove() {
-
+        for (int i = 0; i < 70; i++) {
+            race.hareMove("+");
+        }
     }
 
 }
