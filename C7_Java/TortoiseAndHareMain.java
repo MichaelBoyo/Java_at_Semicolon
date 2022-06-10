@@ -1,6 +1,5 @@
 package C7_Java;
 
-import java.time.LocalDateTime;
 
 public class TortoiseAndHareMain {
     public static void main(String[] args) {
@@ -12,15 +11,19 @@ public class TortoiseAndHareMain {
                 """);
 
         while (game.checkHareMoves() != 70 && game.getNumberOfSquares() != 70) {
-                game.hareMove("H ");
-                game.tortoiseMove("T ");
+            game.hareMove("H ");
+            game.tortoiseMove("T ");
 
-                System.out.printf("""
+            System.out.printf("""
                     hare moved %d
                     tortoise moved %d
-                    """,game.checkHareMoves(), game.getNumberOfSquares());
-                System.out.println();
+                    """, game.checkHareMoves(), game.getNumberOfSquares());
+            System.out.println();
+            try
+            {Thread.sleep(2000);}
+            catch(Exception ignored) {}
         }
+
         game.printHareTrack();
         System.out.println();
         game.printTortoiseTrack();

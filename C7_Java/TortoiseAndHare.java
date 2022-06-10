@@ -10,16 +10,16 @@ public class TortoiseAndHare {
         int randNum = random.nextInt(10)+1;
         int plod = 0;
 
-        if(randNum<=4){
+        if(randNum<=5){
             plod = 1;
         }
-        if(randNum>=5 && randNum <=6){
+        if(randNum>=6 && randNum <=7){
             plod = 2;
         }
-        if(randNum>=7 && randNum <=8){
+        if(randNum>=8 && randNum <=9){
             plod = 3;
         }
-        if(randNum>=9 ){
+        if(randNum>=10 ){
             plod = 4;
         }
 
@@ -96,7 +96,6 @@ public class TortoiseAndHare {
                 }
             }
         }
-
     }
     public  void printTortoiseTrack(){
         for (String in:tortoiseTrack){
