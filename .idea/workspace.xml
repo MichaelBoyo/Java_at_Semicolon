@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C7_Java/SieveOfEratosthenes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C7_Java/SieveOfEratosthenesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C6_Java/Multiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/C6_Java/Multiples.java" afterDir="false" />
-    </list>
+    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +60,7 @@
     "extract.method.default.visibility": "private",
     "full.screen.before.presentation.mode": "false",
     "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java",
-    "last_opened_file_path": "C:/Users/PC/IdeaProjects/Chibob1",
+    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -100,7 +94,20 @@
       <recent name="Chibuzo_Assg" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SieveOfEratosthenesTest.array">
+  <component name="RunManager" selected="Application.ClimateChange">
+    <configuration name="ClimateChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C5_Java.ClimateChange" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C5_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Multiples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C6_Java.Multiples" />
       <module name="Java_at_Semicolon" />
@@ -158,29 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TortoiseAndHareTest.weHave70Squares" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.TortoiseAndHareTest" />
-      <option name="METHOD_NAME" value="weHave70Squares" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClimateChange" />
         <item itemvalue="JUnit.SieveOfEratosthenesTest.array" />
         <item itemvalue="Application.Multiples" />
         <item itemvalue="JUnit.SieveOfEratosthenesTest" />
         <item itemvalue="Application.tortoiseAndHareMain" />
-        <item itemvalue="JUnit.TortoiseAndHareTest.weHave70Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -284,6 +275,8 @@
       <workItem from="1654859478776" duration="12459000" />
       <workItem from="1654886398497" duration="13941000" />
       <workItem from="1654954420424" duration="5836000" />
+      <workItem from="1655047246716" duration="242000" />
+      <workItem from="1655047629113" duration="242000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -648,28 +641,28 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$DiaryTest.ic" NAME="DiaryTest Coverage Results" MODIFIED="1654245014916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Diary.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest_testThatUserCanHaveEntry.ic" NAME="UserTest.testThatUserCanHaveEntry Coverage Results" MODIFIED="1653937483670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1654125568064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest.ic" NAME="EntryTest Coverage Results" MODIFIED="1654245096738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1654345520538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest_testThatEntryCanBeEdited.ic" NAME="EntryTest.testThatEntryCanBeEdited Coverage Results" MODIFIED="1654105870661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest_testThatUserCanHaveEntry.ic" NAME="UserTest.testThatUserCanHaveEntry Coverage Results" MODIFIED="1653937483670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartItemsTest.ic" NAME="ShoppingCartItemsTest Coverage Results" MODIFIED="1654345955959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1654125568064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$DiaryTest.ic" NAME="DiaryTest Coverage Results" MODIFIED="1654245014916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$KnightsTourTest_testThatKnightCanMove.ic" NAME="KnightsTourTest.testThatKnightCanMove Coverage Results" MODIFIED="1653919249213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest_testThatEntryCanBeEdited.ic" NAME="EntryTest.testThatEntryCanBeEdited Coverage Results" MODIFIED="1654105870661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Diary.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartItemsTest.ic" NAME="ShoppingCartItemsTest Coverage Results" MODIFIED="1654345955959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1654345520538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
     </SUITE>
   </component>

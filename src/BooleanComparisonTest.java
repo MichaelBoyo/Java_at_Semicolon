@@ -1,7 +1,6 @@
 import C8_Java.BooleanComparison;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 class BooleanComparisonTest {
     @Test
