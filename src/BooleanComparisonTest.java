@@ -1,6 +1,8 @@
 import C8_Java.BooleanComparison;
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.*;
+
 
 class BooleanComparisonTest {
     @Test
@@ -10,7 +12,7 @@ class BooleanComparisonTest {
         String[] b=new String[5];
 
         boolean result =eden.compare(a,b);
-        assertEquals(result,false);
+        assertTrue(result);
         //assertFalse(result);
     }
 

@@ -8,7 +8,8 @@ public class ClimateChange {
         Scanner answer = new Scanner(System.in);
         System.out.println("Answer the following Questions on Climate change ");
 
-        System.out.println("1. Earths temperature are stable because we are surrounded by ______ which allows the right amount of sunlight in to warm the earth");
+        System.out.println("1. Earths temperature are stable because we are" +
+                " surrounded by ______ which allows the right amount of sunlight in to warm the earth");
         System.out.println("""
                 A. A cloud layer
                 B. An atmosphere

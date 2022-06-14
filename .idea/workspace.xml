@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates" />
+    <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/SchoolMAnagementSystemTest/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C5_Java/ClimateChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/C5_Java/ClimateChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BooleanComparisonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BooleanComparisonTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +27,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,8 +68,8 @@
     "create.test.in.the.same.root": "true",
     "extract.method.default.visibility": "private",
     "full.screen.before.presentation.mode": "false",
-    "last_directory_selection": "C:/Users/PC/IdeaProjects/Java_at_Semicolon/src/C7_Java",
-    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon",
+    "last_directory_selection": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest",
+    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/BankingApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,20 +96,33 @@
       <recent name="C8_Java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="SchoolMAnagementSystemTest" />
+      <recent name="SchoolManagementSystem" />
       <recent name="C7_Java" />
       <recent name="FinApp" />
       <recent name="Diary" />
-      <recent name="C8_Java" />
-      <recent name="Chibuzo_Assg" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClimateChange">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ClimateChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C5_Java.ClimateChange" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="C5_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.Main" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SchoolManagementSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,30 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tortoiseAndHareMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C7_Java.tortoiseAndHareMain" />
+    <configuration name="BooleanComparisonTest.testThatBoolean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SieveOfEratosthenesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="C7_Java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="C7_Java" />
-      <option name="MAIN_CLASS_NAME" value="C7_Java.SieveOfEratosthenesTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooleanComparisonTest" />
+      <option name="METHOD_NAME" value="testThatBoolean" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.BooleanComparisonTest.testThatBoolean" />
         <item itemvalue="Application.ClimateChange" />
         <item itemvalue="JUnit.SieveOfEratosthenesTest.array" />
         <item itemvalue="Application.Multiples" />
-        <item itemvalue="JUnit.SieveOfEratosthenesTest" />
-        <item itemvalue="Application.tortoiseAndHareMain" />
       </list>
     </recent_temporary>
   </component>
@@ -277,6 +281,10 @@
       <workItem from="1654954420424" duration="5836000" />
       <workItem from="1655047246716" duration="242000" />
       <workItem from="1655047629113" duration="242000" />
+      <workItem from="1655047917527" duration="605000" />
+      <workItem from="1655048562670" duration="1909000" />
+      <workItem from="1655085285125" duration="604000" />
+      <workItem from="1655194483518" duration="4003000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
