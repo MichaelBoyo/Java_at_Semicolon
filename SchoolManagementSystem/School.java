@@ -144,9 +144,42 @@ public class School {
         for (Course course: listOfCourses){
             if(course.getCourseId() == id){
                 course.setName(newName);
-                break;
+                return;
             }
         }
         throw new IllegalArgumentException("course with courseId: "+id+" not found");
+    }
+    public int getTotalStudents(){
+        return listOfStudents.size();
+    }
+    public void clearDatabase(){
+        for(Student student: listOfStudents){
+            student.resetId();
+        }
+        for(Course course: listOfCourses){
+            course.resetId();
+        }
+        listOfStudents.clear();
+        expelledStudents.clear();
+    }
+
+    public ArrayList<Course> getListOfCourses() {
+        return listOfCourses;
+    }
+    public int getStudentOfferingACourse(int courseId){
+        int noOfStudents = 0;
+        for (Student student: listOfStudents){
+            ArrayList<Course> courses = student.getCourseOffered();
+            for (Course course: courses){
+                if(course.getCourseId() == courseId){
+                    noOfStudents++;
+                }
+            }
+        }
+        return noOfStudents;
+    }
+
+    public ArrayList<Student> getListOfStudents() {
+        return listOfStudents;
     }
 }

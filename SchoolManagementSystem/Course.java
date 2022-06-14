@@ -31,4 +31,8 @@ public class Course {
         courseName = newName;
     }
 
+    public void resetId() {
+        id = 100;
+    }
+
 }

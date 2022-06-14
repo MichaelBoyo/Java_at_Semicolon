@@ -18,6 +18,9 @@ public class Student {
         this.gender = gender;
         studentId = ++Id;
     }
+    public void resetId(){
+        Id = 1000;
+    }
     public void offerCourse(Course course){
         courseOffered.add(course);
     }
@@ -83,6 +86,10 @@ public class Student {
         for(Course course: courseOffered){
             System.out.println(course);
         }
+    }
+
+    public ArrayList<Course> getCourseOffered() {
+        return courseOffered;
     }
 
     public void dropCourse(String name) {
