@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/SchoolMAnagementSystemTest/CourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolMAnagementSystemTest/SchoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolMAnagementSystemTest/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolMAnagementSystemTest/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BooleanComparisonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BooleanComparisonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C7_Java/SieveOfEratosthenesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/C7_Java/SieveOfEratosthenesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C7_Java/TortoiseAndHareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/C7_Java/TortoiseAndHareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C8_Java/BooleanComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/C8_Java/BooleanComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C8_Java/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/C8_Java/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chibuzo_Assg/ComparisonaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Chibuzo_Assg/ComparisonaceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chibuzo_Assg/StudentGradeTrackerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Chibuzo_Assg/StudentGradeTrackerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +296,7 @@
       <workItem from="1655048562670" duration="1909000" />
       <workItem from="1655085285125" duration="604000" />
       <workItem from="1655194483518" duration="8654000" />
-      <workItem from="1655245885336" duration="3031000" />
+      <workItem from="1655245885336" duration="3485000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -645,7 +644,7 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/C7_Java/SieveOfEratosthenesTest.java</url>
+          <url>file://$PROJECT_DIR$/test/C7_Java/SieveOfEratosthenesTest.java</url>
           <line>10</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
@@ -674,14 +673,23 @@
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest_testThatUserCanHaveEntry.ic" NAME="UserTest.testThatUserCanHaveEntry Coverage Results" MODIFIED="1653937483670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$SchoolTest.ic" NAME="SchoolTest Coverage Results" MODIFIED="1655248946283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartItemsTest.ic" NAME="ShoppingCartItemsTest Coverage Results" MODIFIED="1654345955959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$DiaryTest.ic" NAME="DiaryTest Coverage Results" MODIFIED="1654245014916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$StudentTest.ic" NAME="StudentTest Coverage Results" MODIFIED="1655248978040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$KnightsTourTest_testThatKnightCanMove.ic" NAME="KnightsTourTest.testThatKnightCanMove Coverage Results" MODIFIED="1653919249213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$CourseTest.ic" NAME="CourseTest Coverage Results" MODIFIED="1655249008056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1654345520538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>

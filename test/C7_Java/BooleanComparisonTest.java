@@ -1,3 +1,5 @@
+package C7_Java;
+
 import C8_Java.BooleanComparison;
 import org.junit.jupiter.api.Test;
 
