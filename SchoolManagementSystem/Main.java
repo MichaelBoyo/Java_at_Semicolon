@@ -5,6 +5,7 @@ import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class Main {
     static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
@@ -28,13 +29,23 @@ public class Main {
                     default -> main(args);
                 }
             }
-        }catch (InputMismatchException | IllegalArgumentException e){
+        }catch (InputMismatchException | IllegalArgumentException | NullPointerException e){
             System.out.println(e.getMessage());
             school.clearDatabase();
             main(args);
         }
 
 
+    }
+    public static void home(int anything){
+        if(anything ==-1){
+           throw new InputMismatchException("homePage sentinel activated");
+        }
+    }
+    public static void home(String anything){
+        if(Integer.parseInt(anything) ==-1){
+            throw new InputMismatchException("homePage sentinel activated");
+        }
     }
 
     private static void adminMenu(School school) {
@@ -58,7 +69,7 @@ public class Main {
                 case 3-> school.getAllStudents();
                 case 4 -> school.getAllCourses();
                 case 5 -> expelStudents(school);
-                case 6-> removeCourses(school);
+                case 6 -> removeCourses(school);
                 case 7 -> editCourseInfo(school);
                 case 8 -> {
                     System.out.println("enter courseID");
@@ -259,15 +270,19 @@ public class Main {
         while (sentinel!= -1){
             System.out.println("enter first name: ");
             String firstName = scanner.next();
+            home(firstName);
 
             System.out.println("enter last name: ");
             String lastName = scanner.next();
+            home(lastName);
 
             System.out.println("enter age: ");
             int age = scanner.nextInt();
+            home(age);
 
             System.out.println("enter gender: ");
             String gender = scanner.next();
+            home(gender);
 
             Student student = new Student(firstName,lastName,age,gender);
             school.addStudent(student);
@@ -287,6 +302,7 @@ public class Main {
         while (sentinel!= -1){
             System.out.println("enter course name: ");
             String courseName = scanner.next();
+            home(courseName);
             Course course = new Course(courseName);
             school.addCourse(course);
             System.out.println("press 1 to add another course or 0 to end");

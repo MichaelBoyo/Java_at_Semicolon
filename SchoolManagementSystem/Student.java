@@ -22,6 +22,11 @@ public class Student {
         Id = 1000;
     }
     public void offerCourse(Course course){
+        for(Course course1: courseOffered){
+            if (course.getCourseId() == course1.getCourseId()){
+                throw new IllegalArgumentException("you already offer that course");
+            }
+        }
         courseOffered.add(course);
     }
 
