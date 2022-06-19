@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int input;
         do{
-            Questions question = new Question();
+            Quiz question = new Question();
             int correct = question.setQuiz();
             if (correct> 6){
                 question = new Level1Decorator(new Question());
@@ -41,7 +41,7 @@ public class Main {
         }while(input!= -1);
     }
 
-    private static void prompt(Questions question,int correct) {
+    private static void prompt(Quiz question, int correct) {
         System.out.printf("Difficulty level = %d%n",question.getDifficulty());
         System.out.printf("you got %d right %n", correct);
         System.out.println("lets step it up");

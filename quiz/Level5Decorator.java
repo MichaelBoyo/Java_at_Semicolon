@@ -1,24 +1,24 @@
 package quiz;
 
 public class Level5Decorator extends LevelDecorator {
-    Questions question;
+    Quiz quiz;
 
     @Override
     public void setDifficulty(int difficulty) {
-        question.setDifficulty(200);
+        quiz.setDifficulty(200);
     }
 
     @Override
     public int getDifficulty() {
-        return question.getDifficulty()+ 200;
+        return quiz.getDifficulty()+ 200;
     }
 
     @Override
     public int setQuiz(){
-        question.setDifficulty(question.getDifficulty()+200);
-        return question.setQuiz();
+        quiz.setDifficulty(quiz.getDifficulty()+200);
+        return quiz.setQuiz();
     }
-    public Level5Decorator(Questions question){
-        this.question = question;
+    public Level5Decorator(Quiz quiz){
+        this.quiz = quiz;
     }
 }

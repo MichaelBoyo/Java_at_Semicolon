@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Question extends Questions {
+public class Question extends Quiz {
     public void setDifficulty(int difficulty) {
         this.difficulty = difficulty;
     }
