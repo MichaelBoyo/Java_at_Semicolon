@@ -11,21 +11,21 @@ public class Main {
             int quizScore = quiz.setQuiz();
             if (quizScore> 6){
                 quiz = new Level1Decorator(new MathQuiz());
-                quizScore = getScore(quiz, quizScore);
+                quizScore = score(quiz, quizScore);
                 if(quizScore>6){
                     quiz = new Level2Decorator(new Level1Decorator(new MathQuiz()));
-                    quizScore = getScore(quiz, quizScore);
+                    quizScore = score(quiz, quizScore);
                     if(quizScore>6){
                         quiz = new Level3Decorator(new Level2Decorator( new Level1Decorator(new MathQuiz())));
-                        quizScore = getScore(quiz, quizScore);
+                        quizScore = score(quiz, quizScore);
                         if(quizScore>6){
                             quiz = new Level4Decorator(new Level3Decorator(
                                     new Level2Decorator( new Level1Decorator(new MathQuiz()))));
-                            quizScore = getScore(quiz, quizScore);
+                            quizScore = score(quiz, quizScore);
                             if(quizScore>6){
                                 quiz =new Level5Decorator( new Level4Decorator(new Level3Decorator(
                                         new Level2Decorator( new Level1Decorator(new MathQuiz())))));
-                                getScore(quiz, quizScore);
+                                score(quiz, quizScore);
                             }
                         }
                     }
@@ -36,7 +36,7 @@ public class Main {
         }while(input!= 0);
     }
 
-    private static int getScore(Quiz quiz, int correct) {
+    private static int score(Quiz quiz, int correct) {
         prompt(quiz, correct);
         correct = quiz.setQuiz();
         return correct;
