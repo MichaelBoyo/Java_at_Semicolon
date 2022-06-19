@@ -25,12 +25,10 @@ public class MathQuiz extends Quiz {
     public int setQuiz() {
         String operator;
         for (int i = difficulty; i < difficulty + 10; i++) {
-            numA += (int) Math.pow(i, 2);
-            numB += i;
+            numA += (int) Math.pow(i, 2); numB += i;
             operator = operators[random.nextInt(operators.length)];
             String question = String.format("%d %s %d = ", numA, operator, numB);
             questions.add(question);
-
             System.out.print(question);
             long answer = scanner.nextInt();
             switch (operator) {
@@ -45,28 +43,21 @@ public class MathQuiz extends Quiz {
                         correct++;
                         System.out.println("correct");
                     } else System.out.printf("wrong, answer is %d%n", numA - numB);
-
                 }
                 case "/" -> {
                     if (numA / numB == answer) {
                         correct++;
                         System.out.println("correct");
                     } else System.out.printf("wrong, answer is %d%n", numA / numB);
-
                 }
                 case "*" -> {
                     if ((long) numA * numB == answer) {
                         correct++;
                         System.out.println("correct");
                     } else System.out.printf("wrong, answer is %d%n", numA * numB);
-
                 }
             }
-
-
         }
         return correct;
     }
-
-
 }
