@@ -7,24 +7,24 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int input;
         do{
-            Quiz quiz = new Question();
+            Quiz quiz = new MathQuiz();
             int quizScore = quiz.setQuiz();
             if (quizScore> 6){
-                quiz = new Level1Decorator(new Question());
+                quiz = new Level1Decorator(new MathQuiz());
                 quizScore = getScore(quiz, quizScore);
                 if(quizScore>6){
-                    quiz = new Level2Decorator(new Level1Decorator(new Question()));
+                    quiz = new Level2Decorator(new Level1Decorator(new MathQuiz()));
                     quizScore = getScore(quiz, quizScore);
                     if(quizScore>6){
-                        quiz = new Level3Decorator(new Level2Decorator( new Level1Decorator(new Question())));
+                        quiz = new Level3Decorator(new Level2Decorator( new Level1Decorator(new MathQuiz())));
                         quizScore = getScore(quiz, quizScore);
                         if(quizScore>6){
                             quiz = new Level4Decorator(new Level3Decorator(
-                                    new Level2Decorator( new Level1Decorator(new Question()))));
+                                    new Level2Decorator( new Level1Decorator(new MathQuiz()))));
                             quizScore = getScore(quiz, quizScore);
                             if(quizScore>6){
                                 quiz =new Level5Decorator( new Level4Decorator(new Level3Decorator(
-                                        new Level2Decorator( new Level1Decorator(new Question())))));
+                                        new Level2Decorator( new Level1Decorator(new MathQuiz())))));
                                 getScore(quiz, quizScore);
                             }
                         }

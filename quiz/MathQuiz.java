@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Question extends Quiz {
+public class MathQuiz extends Quiz {
     static Scanner scanner = new Scanner(System.in);
     protected final ArrayList<String> questions = new ArrayList<String>();
     private int difficulty = 1;
