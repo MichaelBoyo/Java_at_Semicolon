@@ -7,30 +7,30 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int input;
         do{
-            Quiz question = new Question();
-            int correct = question.setQuiz();
+            Quiz quiz = new Question();
+            int correct = quiz.setQuiz();
             if (correct> 6){
-                question = new Level1Decorator(new Question());
-                prompt(question,correct);
-                correct = question.setQuiz();
+                quiz = new Level1Decorator(new Question());
+                prompt(quiz,correct);
+                correct = quiz.setQuiz();
                 if(correct>6){
-                    question = new Level2Decorator(new Level1Decorator(new Question()));
-                    prompt(question,correct);
-                    correct = question.setQuiz();
+                    quiz = new Level2Decorator(new Level1Decorator(new Question()));
+                    prompt(quiz,correct);
+                    correct = quiz.setQuiz();
                     if(correct>6){
-                        question = new Level3Decorator(new Level2Decorator( new Level1Decorator(new Question())));
-                        prompt(question,correct);
-                        correct = question.setQuiz();
+                        quiz = new Level3Decorator(new Level2Decorator( new Level1Decorator(new Question())));
+                        prompt(quiz,correct);
+                        correct = quiz.setQuiz();
                         if(correct>6){
-                            question = new Level4Decorator(new Level3Decorator(
+                            quiz = new Level4Decorator(new Level3Decorator(
                                     new Level2Decorator( new Level1Decorator(new Question()))));
-                            prompt(question,correct);
-                            correct = question.setQuiz();
+                            prompt(quiz,correct);
+                            correct = quiz.setQuiz();
                             if(correct>6){
-                                question =new Level5Decorator( new Level4Decorator(new Level3Decorator(
+                                quiz =new Level5Decorator( new Level4Decorator(new Level3Decorator(
                                         new Level2Decorator( new Level1Decorator(new Question())))));
-                                prompt(question,correct);
-                                question.setQuiz();
+                                prompt(quiz,correct);
+                                quiz.setQuiz();
                             }
                         }
                     }
