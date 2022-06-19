@@ -1,7 +1,7 @@
 package quiz;
 
 public class Level2Decorator extends LevelDecorator {
-    Quiz quiz;
+    private Quiz quiz;
     @Override
     public void setDifficulty(int difficulty) {
         quiz.setDifficulty(50);
