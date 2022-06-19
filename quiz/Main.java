@@ -8,29 +8,24 @@ public class Main {
         int input;
         do{
             Quiz quiz = new Question();
-            int correct = quiz.setQuiz();
-            if (correct> 6){
+            int quizScore = quiz.setQuiz();
+            if (quizScore> 6){
                 quiz = new Level1Decorator(new Question());
-                prompt(quiz,correct);
-                correct = quiz.setQuiz();
-                if(correct>6){
+                quizScore = getScore(quiz, quizScore);
+                if(quizScore>6){
                     quiz = new Level2Decorator(new Level1Decorator(new Question()));
-                    prompt(quiz,correct);
-                    correct = quiz.setQuiz();
-                    if(correct>6){
+                    quizScore = getScore(quiz, quizScore);
+                    if(quizScore>6){
                         quiz = new Level3Decorator(new Level2Decorator( new Level1Decorator(new Question())));
-                        prompt(quiz,correct);
-                        correct = quiz.setQuiz();
-                        if(correct>6){
+                        quizScore = getScore(quiz, quizScore);
+                        if(quizScore>6){
                             quiz = new Level4Decorator(new Level3Decorator(
                                     new Level2Decorator( new Level1Decorator(new Question()))));
-                            prompt(quiz,correct);
-                            correct = quiz.setQuiz();
-                            if(correct>6){
+                            quizScore = getScore(quiz, quizScore);
+                            if(quizScore>6){
                                 quiz =new Level5Decorator( new Level4Decorator(new Level3Decorator(
                                         new Level2Decorator( new Level1Decorator(new Question())))));
-                                prompt(quiz,correct);
-                                quiz.setQuiz();
+                                getScore(quiz, quizScore);
                             }
                         }
                     }
@@ -39,6 +34,12 @@ public class Main {
             System.out.println("press 1 to try again or 0 to end");
             input = scanner.nextInt();
         }while(input!= 0);
+    }
+
+    private static int getScore(Quiz quiz, int correct) {
+        prompt(quiz, correct);
+        correct = quiz.setQuiz();
+        return correct;
     }
 
     private static void prompt(Quiz question, int correct) {
