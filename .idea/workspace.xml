@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change beforePath="$PROJECT_DIR$/quiz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/MathQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/MathQuiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -303,7 +304,7 @@
       <workItem from="1655390082821" duration="642000" />
       <workItem from="1655403069551" duration="1268000" />
       <workItem from="1655453474703" duration="16000" />
-      <workItem from="1655553143654" duration="14396000" />
+      <workItem from="1655553143654" duration="15626000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
