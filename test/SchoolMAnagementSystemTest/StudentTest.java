@@ -81,6 +81,8 @@ class StudentTest {
     @Test
     void offerCourse() {
         assertEquals(1, student.getCourseOffered().size());
+        assertEquals("Java",
+                student.getCourseOffered().get(0).getCourseName());
     }
 
 

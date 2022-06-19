@@ -47,26 +47,16 @@ public class School {
     }
 
     public void removeCourse(String courseName) {
-        Course courseToBeRemoved = null;
         for (Course course : listOfCourses) {
             if (course.getCourseName().equalsIgnoreCase(courseName)) {
-                courseToBeRemoved = course;
-                break;
+                listOfCourses.remove(course);
+                return;
             }
         }
-        if (courseToBeRemoved == null) {
             throw new IllegalArgumentException("course with courseName: " + courseName + " not found");
-        }
-        listOfCourses.remove(courseToBeRemoved);
-
     }
 
     public void addStudent(Student student) {
-        for (Student student1 : listOfStudents) {
-            if (student.getFirstName().equalsIgnoreCase(student1.getFirstName())) {
-                throw new IllegalArgumentException("student with name " + student.getFirstName() + " already exist");
-            }
-        }
         listOfStudents.add(student);
     }
 
@@ -184,10 +174,19 @@ public class School {
         for (Student student : listOfStudents) {
             ArrayList<Course> courses = student.getCourseOffered();
             for (Course course : courses) {
-                if (!(course.getCourseId() == courseId)) {
-                    throw new IllegalArgumentException("course id: "+courseId+" doesnt exist!");
-                }else noOfStudents++;
+                if (course.getCourseId() == courseId) {
+                    noOfStudents++;
+                }
+
             }
+
+        }
+        Course course = getCourse(courseId);
+        if(course ==null){
+            throw new CourseNotFoundException("course with course id: "+courseId+" doesnt exist!");
+        }
+        if(noOfStudents == 0){
+            throw new CourseNotOfferedByStudentException("no student offers "+course.getCourseName()+" yet");
         }
         return noOfStudents;
     }

@@ -5,16 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/CourseNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/CourseNotOfferedByStudentException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_pattern/AlloyRimDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_pattern/CarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_pattern/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_pattern/V_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator_pattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigs/CuriosityGigs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigs/GFG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Level1Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Level2Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Level3Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Level4Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Level5Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/LevelDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz/Questions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/SchoolMAnagementSystemTest/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolMAnagementSystemTest/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="0" />
@@ -24,8 +44,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -50,35 +70,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/IdeaProjects/BankingApp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "extract.method.default.visibility": "private",
+    "full.screen.before.presentation.mode": "false",
+    "last_directory_selection": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest",
+    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Diary" />
@@ -94,14 +114,27 @@
       <recent name="C8_Java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="EMStest" />
       <recent name="SchoolMAnagementSystemTest" />
       <recent name="SchoolManagementSystem" />
       <recent name="C7_Java" />
       <recent name="FinApp" />
-      <recent name="Diary" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.quiz.Main">
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gigs.GFG" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gigs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.Main" />
       <module name="Java_at_Semicolon" />
@@ -115,74 +148,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CourseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="EMRS_PROJECT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolMAnagementSystemTest.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolMAnagementSystemTest" />
-      <option name="MAIN_CLASS_NAME" value="SchoolMAnagementSystemTest.CourseTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="V_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator_pattern.V_Main" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolMAnagementSystemTest.*" />
+          <option name="PATTERN" value="decorator_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolMAnagementSystemTest" />
-      <option name="MAIN_CLASS_NAME" value="SchoolMAnagementSystemTest.SchoolTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolTest.getStudentOfferingACourse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="gigs.CuriosityGigs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gigs.CuriosityGigs" />
       <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SchoolMAnagementSystemTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SchoolMAnagementSystemTest" />
-      <option name="MAIN_CLASS_NAME" value="SchoolMAnagementSystemTest.SchoolTest" />
-      <option name="METHOD_NAME" value="getStudentOfferingACourse" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="quiz.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.Main" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolMAnagementSystemTest.*" />
+          <option name="PATTERN" value="quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SchoolMAnagementSystemTest" />
-      <option name="MAIN_CLASS_NAME" value="SchoolMAnagementSystemTest.StudentTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quiz.Main" />
+        <item itemvalue="Application.V_Main" />
+        <item itemvalue="Application.GFG" />
+        <item itemvalue="Application.gigs.CuriosityGigs" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.CourseTest" />
-        <item itemvalue="JUnit.StudentTest" />
-        <item itemvalue="JUnit.SchoolTest" />
-        <item itemvalue="JUnit.SchoolTest.getStudentOfferingACourse" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +311,20 @@
       <workItem from="1655085285125" duration="604000" />
       <workItem from="1655194483518" duration="8654000" />
       <workItem from="1655245885336" duration="3655000" />
-      <workItem from="1655281050122" duration="4537000" />
+      <workItem from="1655281050122" duration="9049000" />
+      <workItem from="1655298666945" duration="7702000" />
+      <workItem from="1655324769585" duration="39000" />
+      <workItem from="1655324848377" duration="593000" />
+      <workItem from="1655332036106" duration="1566000" />
+      <workItem from="1655336296551" duration="2570000" />
+      <workItem from="1655339478426" duration="671000" />
+      <workItem from="1655340293141" duration="70000" />
+      <workItem from="1655365187553" duration="614000" />
+      <workItem from="1655380955049" duration="2363000" />
+      <workItem from="1655390082821" duration="642000" />
+      <workItem from="1655403069551" duration="1268000" />
+      <workItem from="1655453474703" duration="16000" />
+      <workItem from="1655553143654" duration="13747000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>

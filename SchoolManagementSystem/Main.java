@@ -17,9 +17,9 @@ public class Main {
             int sentinel = 0;
             while (sentinel!= -1){
                 System.out.println("""
-                        1. Admin
-                        2. Student
-                        0. exit
+                        1 => Admin Login
+                        2 => Student Login
+                        0 => exit
                         """);
                 int input = scanner.nextInt();
                 switch (input){
@@ -37,30 +37,21 @@ public class Main {
 
 
     }
-    public static void home(int anything){
-        if(anything ==-1){
-           throw new InputMismatchException("homePage sentinel activated");
-        }
-    }
-    public static void home(String anything){
-        if(Integer.parseInt(anything) ==-1){
-            throw new InputMismatchException("homePage sentinel activated");
-        }
-    }
+
 
     private static void adminMenu(School school) {
         int exit = 0;
         while (exit!=-1){
             System.out.println("""
-                1 -> Add student
-                2 -> Add course
-                3 -> view all Students
-                4 -> view all Courses
-                5 -> expel Student
-                6 -> remove courses
-                7 -> edit Course Info
+                1 => Add student
+                2 => Add course
+                3 => view all Students
+                4 => view all Courses
+                5 => expel Student
+                6 => remove courses
+                7 => edit Course Info
                 8 => get Number of students offering a course
-                0 -> exit
+                0 => exit
                 """);
             int userInput = scanner.nextInt();
             switch (userInput){
@@ -103,9 +94,9 @@ public class Main {
         Random random = new Random();
         for (int i = 0; i <defaultFirstNames.length ; i++) {
             Student student = new Student(defaultFirstNames[i],defaultLastNames[i],(random.nextInt(18) +18),gender[random.nextInt(2)] );
-            for (Course course: courses){
-                student.offerCourse(course);
-            }
+//            for (Course course: courses){
+//                student.offerCourse(course);
+//            }
             school.addStudent(student);
         }
     }
@@ -118,12 +109,12 @@ public class Main {
         while (sentinel!=-1){
             System.out.println("STUDENT'S PAGE");
             System.out.println("""
-                    1 -> Offer course
-                    2 -> drop course
-                    3 -> edit info
-                    4 -> view all courses you offer
-                    5 -> drop out of school
-                    0 -> end
+                    1 => Offer course
+                    2 => drop course
+                    3 => edit info
+                    4 => view all courses you offer
+                    5 => drop out of school
+                    0 => end
                     """);
             int input = scanner.nextInt();
             switch (input){
@@ -167,7 +158,7 @@ public class Main {
             Course course = school.getCourse(courseId);
             student.offerCourse(course);
 
-            System.out.println("enter 1 to offer another course?");
+            System.out.println("enter 1 to offer another course or 0 to end");
             int userInput = scanner.nextInt();
             if(userInput != 1){
                 exit = -1;
@@ -185,7 +176,7 @@ public class Main {
             String newName = scanner.next();
             school.editCourseName(id,newName);
 
-            System.out.println("press 1 to edit another course");
+            System.out.println("press 1 to edit another course or 0 to end");
             int input = scanner.nextInt();
             if(input != 1){
                 exit = -1;
@@ -270,25 +261,22 @@ public class Main {
         while (sentinel!= -1){
             System.out.println("enter first name: ");
             String firstName = scanner.next();
-            home(firstName);
 
             System.out.println("enter last name: ");
             String lastName = scanner.next();
-            home(lastName);
 
             System.out.println("enter age: ");
             int age = scanner.nextInt();
-            home(age);
+
 
             System.out.println("enter gender: ");
             String gender = scanner.next();
-            home(gender);
 
             Student student = new Student(firstName,lastName,age,gender);
             school.addStudent(student);
-            offerCourse(school,student);
+//            offerCourse(school,student);
 
-            System.out.println("press 1 to add another  student");
+            System.out.println("press 1 to add another student or 0 to end");
             int user_input = scanner.nextInt();
             if(user_input!=1){
                 sentinel = -1;
@@ -302,7 +290,6 @@ public class Main {
         while (sentinel!= -1){
             System.out.println("enter course name: ");
             String courseName = scanner.next();
-            home(courseName);
             Course course = new Course(courseName);
             school.addCourse(course);
             System.out.println("press 1 to add another course or 0 to end");
