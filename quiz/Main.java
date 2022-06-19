@@ -36,9 +36,9 @@ public class Main {
                     }
                 }
             }
-            System.out.println("press 1 to try again");
+            System.out.println("press 1 to try again or 0 to end");
             input = scanner.nextInt();
-        }while(input!= -1);
+        }while(input!= 0);
     }
 
     private static void prompt(Quiz question, int correct) {

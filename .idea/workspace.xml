@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/CourseNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolManagementSystem/CourseNotOfferedByStudentException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_pattern/AlloyRimDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_pattern/CarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_pattern/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_pattern/V_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator_pattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigs/CuriosityGigs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gigs/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Level1Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Level2Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Level3Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Level4Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Level5Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/LevelDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quiz/Questions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SchoolManagementSystem/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/SchoolManagementSystem/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SchoolMAnagementSystemTest/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SchoolMAnagementSystemTest/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +303,7 @@
       <workItem from="1655390082821" duration="642000" />
       <workItem from="1655403069551" duration="1268000" />
       <workItem from="1655453474703" duration="16000" />
-      <workItem from="1655553143654" duration="14079000" />
+      <workItem from="1655553143654" duration="14396000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
