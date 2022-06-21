@@ -63,7 +63,7 @@ public class Main {
             String body = scanner.nextLine();
             Post post = new Post(title,body);
             blog.addPost(post);
-            blog.pushNotification();
+            blog._notify();
             System.out.println("enter 1 to add new post or 0 to end");
             input = scanner.nextInt();
         }while (input!= 0);

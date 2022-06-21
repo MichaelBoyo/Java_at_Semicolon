@@ -27,7 +27,7 @@ public class Blog implements Observable {
     }
 
     @Override
-    public void pushNotification() {
+    public void _notify() {
         for (Observer observer: observers) {
             observer.update();
         }
