@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C12_Java/MyStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C12_Java/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C12_Java/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/C12_Java/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/Turtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObserverPattern/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +306,7 @@
       <workItem from="1655644483269" duration="22391000" />
       <workItem from="1655747710699" duration="9160000" />
       <workItem from="1655798470825" duration="22585000" />
-      <workItem from="1655841030556" duration="1965000" />
+      <workItem from="1655841030556" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>

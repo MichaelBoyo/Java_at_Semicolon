@@ -9,7 +9,7 @@ public class User implements Observer{
     }
 
     private String name;
-    private List<String> posts = new ArrayList<>();
+    private List<Post> posts = new ArrayList<>();
     Blog blog;
     public User(Blog blog, String name) {
         this.blog = blog;
@@ -19,7 +19,7 @@ public class User implements Observer{
     public void update() {
         posts = blog.getCurrentPost();
     }
-    public List<String> getPosts(){
+    public List<Post> getPosts(){
         return posts;
     }
 }

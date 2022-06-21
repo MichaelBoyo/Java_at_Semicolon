@@ -4,10 +4,13 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-    static Blog blog = new Blog();
+    static Blog blog;
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
+        System.out.println("enter blog name");
+        String name = scanner.next();
+        blog =new Blog(name);
 
         int input;
         do {
@@ -31,8 +34,9 @@ public class Main {
         System.out.println("enter name");
         String name = scanner.next();
         User user = blog.getUser(name);
-        List<String>posts = user.getPosts();
-        for (String post : posts){
+        List<Post>posts = user.getPosts();
+        System.out.printf("Welcome to %s's Blog%n",blog.getName());
+        for (Post post : posts){
             System.out.println(post);
         }
     }
@@ -52,9 +56,12 @@ public class Main {
     private static void createPost() {
         int input;
         do{
-            System.out.println("enter post");
+            System.out.println("enter post title");
             scanner.nextLine();
-            String post = scanner.nextLine();
+            String title = scanner.nextLine();
+            System.out.println("enter post Body");
+            String body = scanner.nextLine();
+            Post post = new Post(title,body);
             blog.addPost(post);
             blog.pushNotification();
             System.out.println("enter 1 to add new post or 0 to end");

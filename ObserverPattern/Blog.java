@@ -4,8 +4,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Blog implements Observable {
+    private String blogName;
+    public Blog(String blogName) {
+        this.blogName = blogName;
+    }
+    public String getName() {
+        return blogName;
+    }
     private List<Observer> observers = new ArrayList<>();
-    private List<String> posts = new ArrayList<>();
+
+    private List<Post> posts = new ArrayList<>();
+
     @Override
     public void add(Observer observer) {
         observers.add(observer);
@@ -23,10 +32,10 @@ public class Blog implements Observable {
             observer.update();
         }
     }
-    public List<String> getCurrentPost(){
+    public List<Post> getCurrentPost(){
         return posts;
     }
-    public void addPost(String post){
+    public void addPost(Post post){
         posts.add(post);
     }
 
