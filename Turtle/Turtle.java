@@ -1,28 +1,21 @@
 package Turtle;
-
 import static Turtle.Direction.*;
-
 public class Turtle {
     private boolean iSPenUp = true;
     private Position currentPosition = new Position(0,0);
     private Direction currentDirection = EAST;
-
     public boolean isPenUp() {
         return iSPenUp;
     }
-
     public void penDown() {
         this.iSPenUp = false;
     }
-
     public void penUP() {
         this.iSPenUp = true;
     }
-
     public Direction getCurrentLocation() {
         return currentDirection;
     }
-
     public void turnRight() {
         switch (currentDirection) {
             case EAST -> turn(SOUTH);
@@ -31,7 +24,6 @@ public class Turtle {
             case NORTH -> turn(EAST);
         }
     }
-
     public void turnLeft() {
         switch (currentDirection) {
             case EAST -> turn(NORTH);
@@ -43,7 +35,6 @@ public class Turtle {
     private void turn(Direction currentDirection){
         this.currentDirection = currentDirection;
     }
-
     public void move(int steps, SketchPad pad) {
         if(!iSPenUp) writeOn(steps, pad);
        move(steps);
@@ -56,7 +47,7 @@ public class Turtle {
         switch(currentDirection){
             case EAST -> {
                 for (int i = currentColumn; i < currentColumn+steps ; i++) {
-                    floor[currentColumn][i] =1;
+                    floor[currentRow][i] =1;
                 }
             }
             case SOUTH -> {
@@ -74,11 +65,8 @@ public class Turtle {
                     floor[currentRow][i] =1;
                 }
             }
-
         }
-
     }
-
     private void move(int steps){
         switch(currentDirection){
             case SOUTH -> increaseRowBy(steps);
@@ -87,17 +75,14 @@ public class Turtle {
             case NORTH -> decreaseRowBy(steps);
         }
     }
-
     private void decreaseRowBy(int steps) {
         int currentRow = currentPosition.getRow();
         currentPosition.setRow(currentRow - steps);
     }
-
     private void decreaseColumnBy(int steps) {
         int currentColumn = currentPosition.getColumn();
         currentPosition.setColumn(currentColumn - steps);
     }
-
     private void increaseColumnBy(int steps){
         int currentColumn = currentPosition.getColumn();
         currentPosition.setColumn(steps+currentColumn);
@@ -106,7 +91,6 @@ public class Turtle {
         int currentRow = currentPosition.getRow();
         currentPosition.setRow(currentRow+steps);
     }
-
     public Position getCurrentPosition() {
         return currentPosition;
     }

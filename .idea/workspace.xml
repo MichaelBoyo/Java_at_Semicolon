@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C12_Java/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Turtle/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Turtle/TurtleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C12_Java/MyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C12_Java/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObserverPattern/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C12_Java/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/C12_Java/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle/Turtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/Turtle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -109,13 +112,39 @@
       <recent name="C7_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Strings">
+  <component name="RunManager" selected="Application.ObserverPattern.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Turtle.Main" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C12_Java.MyStrings" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C12_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverPattern.Main" />
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ObserverPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,60 +165,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C12_Java.TimeConversion" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turtle.*" />
+          <option name="PATTERN" value="C12_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Turtle" />
-      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TurtleTest.moveNorth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Turtle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Turtle" />
-      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
-      <option name="METHOD_NAME" value="moveNorth" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TurtleTest.writeEast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Turtle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Turtle" />
-      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
-      <option name="METHOD_NAME" value="writeEast" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPattern.Main" />
+        <item itemvalue="Application.MyStrings" />
+        <item itemvalue="Application.TimeConversion" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TurtleTest.writeEast" />
-        <item itemvalue="JUnit.TurtleTest" />
-        <item itemvalue="JUnit.TurtleTest.moveNorth" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +312,8 @@
       <workItem from="1655601385202" duration="482000" />
       <workItem from="1655644483269" duration="22391000" />
       <workItem from="1655747710699" duration="9160000" />
-      <workItem from="1655798470825" duration="3789000" />
+      <workItem from="1655798470825" duration="22585000" />
+      <workItem from="1655841030556" duration="1965000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
