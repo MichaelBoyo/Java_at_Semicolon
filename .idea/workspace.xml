@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/C12_Java/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Turtle/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Turtle/TurtleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -80,6 +88,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Turtle" />
       <recent name="Diary" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -93,33 +102,20 @@
       <recent name="C8_Java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Turtle" />
       <recent name="EMStest" />
       <recent name="SchoolMAnagementSystemTest" />
       <recent name="SchoolManagementSystem" />
       <recent name="C7_Java" />
-      <recent name="FinApp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quiz.Main">
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gigs.GFG" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="gigs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SchoolManagementSystem.Main" />
+      <option name="MAIN_CLASS_NAME" value="Turtle.Main" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SchoolManagementSystem.*" />
+          <option name="PATTERN" value="Turtle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="EMRS_PROJECT" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C12_Java.Strings" />
+      <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="C12_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,46 +136,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="V_Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="decorator_pattern.V_Main" />
+    <configuration name="TurtleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decorator_pattern.*" />
+          <option name="PATTERN" value="Turtle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Turtle" />
+      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gigs.CuriosityGigs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gigs.CuriosityGigs" />
+    <configuration name="TurtleTest.moveNorth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Turtle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Turtle" />
+      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
+      <option name="METHOD_NAME" value="moveNorth" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quiz.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="quiz.Main" />
+    <configuration name="TurtleTest.writeEast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="quiz.*" />
+          <option name="PATTERN" value="Turtle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Turtle" />
+      <option name="MAIN_CLASS_NAME" value="Turtle.TurtleTest" />
+      <option name="METHOD_NAME" value="writeEast" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.quiz.Main" />
-        <item itemvalue="Application.V_Main" />
-        <item itemvalue="Application.GFG" />
-        <item itemvalue="Application.gigs.CuriosityGigs" />
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TurtleTest.writeEast" />
+        <item itemvalue="JUnit.TurtleTest" />
+        <item itemvalue="JUnit.TurtleTest.moveNorth" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +314,10 @@
       <workItem from="1655403069551" duration="1268000" />
       <workItem from="1655453474703" duration="16000" />
       <workItem from="1655553143654" duration="16783000" />
-      <workItem from="1655601385202" duration="313000" />
+      <workItem from="1655601385202" duration="482000" />
+      <workItem from="1655644483269" duration="22391000" />
+      <workItem from="1655747710699" duration="9160000" />
+      <workItem from="1655798470825" duration="3789000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
