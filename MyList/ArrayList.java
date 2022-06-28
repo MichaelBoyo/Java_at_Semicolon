@@ -4,7 +4,8 @@ import java.util.Objects;
 
 public class ArrayList implements List {
     private int size;
-    private String[] element = new String[8];
+    private int capacity = 5;
+    private String[] element = new String[capacity];
 
     @Override
     public boolean isEmpty() {
@@ -13,8 +14,29 @@ public class ArrayList implements List {
 
     @Override
     public void add(String item) {
+        int count = 0;
+        for (String str : element) {
+            if (str != null) {
+                count++;
+            }
+        }
+        if(count== capacity-1){
+            int oldCAp = capacity;
+            capacity *=2;
+            String[] freshArray = new String[capacity];
+            for (int i = 0; i <oldCAp ; i++) {
+                freshArray[i] = element[i];
+            }
+            element = freshArray;
+        }
         element[size] = item;
         size++;
+
+    }
+    public void print(){
+        for (String e : element){
+            System.out.println(e);
+        }
     }
 
     @Override
@@ -40,5 +62,10 @@ public class ArrayList implements List {
     @Override
     public String get(int index) {
         return element[index];
+    }
+
+    @Override
+    public int capacity() {
+        return capacity;
     }
 }

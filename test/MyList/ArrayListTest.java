@@ -82,4 +82,32 @@ class ArrayListTest {
         assertEquals("y-string", list.get(0));
     }
 
+    @Test
+    void listShift3(){
+        list.add("G-String");
+        list.add("e-String");
+        list.add("y-string");
+
+        list.remove("e-String");
+        assertEquals("y-string", list.get(1));
+        assertNull(list.get(2));
+    }
+    @Test
+    void add6Elements(){
+        assertEquals(5,list.capacity());
+        list.add("G-String");
+        list.add("e-String");
+        list.add("y-string");
+        list.add("t-String");
+        list.add("o-String");
+        list.add("p-string");
+        assertEquals(10, list.capacity());
+        list.add("G-String");
+        list.add("e-String");
+        list.add("y-string");
+        list.add("t-String");
+
+        list.print();
+    }
+
 }

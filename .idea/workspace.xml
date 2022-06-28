@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C16_Java/_IntStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code_wars/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code_wars/vowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyList/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyList/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SevenSegment/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SevenSegment/SevenSegmentDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C7_Java/BoyoAir.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/BoyoAir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Turtle/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyList/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyList/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,19 +105,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.ArrayListTest">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SevenSegment.Main" />
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SevenSegment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
@@ -158,7 +136,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayListTest.add6Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
@@ -168,7 +146,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="MyList" />
       <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
-      <option name="METHOD_NAME" value="isEmpty" />
+      <option name="METHOD_NAME" value="add6Elements" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,13 +168,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayListTest.listShift2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="MyList" />
+      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="METHOD_NAME" value="listShift2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ArrayListTest" />
+        <item itemvalue="JUnit.ArrayListTest.add6Elements" />
+        <item itemvalue="JUnit.ArrayListTest.listShift2" />
         <item itemvalue="JUnit.ArrayListTest.listShift" />
         <item itemvalue="JUnit.ArrayListTest.add" />
-        <item itemvalue="JUnit.ArrayListTest.isEmpty" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +328,7 @@
       <workItem from="1656141000351" duration="9587000" />
       <workItem from="1656165051800" duration="1450000" />
       <workItem from="1656277178545" duration="15000" />
-      <workItem from="1656421346194" duration="7817000" />
+      <workItem from="1656421346194" duration="11138000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
