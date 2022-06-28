@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/ObserverPattern/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/_IntStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code_wars/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code_wars/vowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyList/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyList/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SevenSegment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SevenSegment/SevenSegmentDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObserverPattern/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObserverPattern/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/ArrayManipulations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/BoyoAir.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/BoyoAir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" beforeDir="false" afterPath="$PROJECT_DIR$/SevenSegment/SevenSegment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Turtle/SketchPad.java" beforeDir="false" afterPath="$PROJECT_DIR$/Turtle/SketchPad.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +33,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -69,7 +77,7 @@
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/IdeaProjects/BankingApp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -98,20 +106,20 @@
       <recent name="C8_Java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="MyList" />
       <recent name="Turtle" />
       <recent name="EMStest" />
       <recent name="SchoolMAnagementSystemTest" />
       <recent name="SchoolManagementSystem" />
-      <recent name="C7_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ObserverPattern.Main">
+  <component name="RunManager" selected="JUnit.ArrayListTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Turtle.Main" />
+      <option name="MAIN_CLASS_NAME" value="SevenSegment.Main" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Turtle.*" />
+          <option name="PATTERN" value="SevenSegment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,64 +127,75 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C12_Java.MyStrings" />
+    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C12_Java.*" />
+          <option name="PATTERN" value="MyList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyList" />
+      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObserverPattern.Main" />
+    <configuration name="ArrayListTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObserverPattern.*" />
+          <option name="PATTERN" value="MyList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyList" />
+      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C12_Java.Strings" />
+    <configuration name="ArrayListTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C12_Java.*" />
+          <option name="PATTERN" value="MyList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyList" />
+      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="METHOD_NAME" value="isEmpty" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C12_Java.TimeConversion" />
+    <configuration name="ArrayListTest.listShift" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C12_Java.*" />
+          <option name="PATTERN" value="MyList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="MyList" />
+      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="METHOD_NAME" value="listShift" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObserverPattern.Main" />
-        <item itemvalue="Application.MyStrings" />
-        <item itemvalue="Application.TimeConversion" />
-        <item itemvalue="Application.Strings" />
+        <item itemvalue="JUnit.ArrayListTest" />
+        <item itemvalue="JUnit.ArrayListTest.listShift" />
+        <item itemvalue="JUnit.ArrayListTest.add" />
+        <item itemvalue="JUnit.ArrayListTest.isEmpty" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -306,7 +325,16 @@
       <workItem from="1655644483269" duration="22391000" />
       <workItem from="1655747710699" duration="9160000" />
       <workItem from="1655798470825" duration="22585000" />
-      <workItem from="1655841030556" duration="3324000" />
+      <workItem from="1655841030556" duration="4315000" />
+      <workItem from="1655903151419" duration="8481000" />
+      <workItem from="1655924116258" duration="28000" />
+      <workItem from="1655973330774" duration="3791000" />
+      <workItem from="1656001007298" duration="9447000" />
+      <workItem from="1656098317154" duration="592000" />
+      <workItem from="1656141000351" duration="9587000" />
+      <workItem from="1656165051800" duration="1450000" />
+      <workItem from="1656277178545" duration="15000" />
+      <workItem from="1656421346194" duration="7817000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>

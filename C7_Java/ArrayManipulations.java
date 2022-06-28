@@ -7,15 +7,15 @@ public class ArrayManipulations {
         double[] doubleArray = {8.4, 9.3, 0.2, 7.9, 3.4};
 
         Arrays.sort(doubleArray);
-        for (int i = 0; i < doubleArray.length; i++) {
-            System.out.print(doubleArray[i] + " ");
+        for (double v : doubleArray) {
+            System.out.print(v + " ");
         }
         System.out.println();
 
         int[] arrayFill = new int[12];
         Arrays.fill(arrayFill, 5);
-        for (int i = 0; i < arrayFill.length; i++) {
-            System.out.print(arrayFill[i] + " ");
+        for (int j : arrayFill) {
+            System.out.print(j + " ");
         }
         int[] intArr = {1, 2, 3, 4, 5, 6};
         int[] intArrCopy = new int[intArr.length];
