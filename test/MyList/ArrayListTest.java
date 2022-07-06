@@ -1,5 +1,7 @@
 package MyList;
 
+import dataStructures.ArrayList;
+import dataStructures.List;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -101,13 +103,8 @@ class ArrayListTest {
         list.add("t-String");
         list.add("o-String");
         list.add("p-string");
+        list.add("p-string");
         assertEquals(10, list.capacity());
-        list.add("G-String");
-        list.add("e-String");
-        list.add("y-string");
-        list.add("t-String");
-
-        list.print();
     }
 
 }

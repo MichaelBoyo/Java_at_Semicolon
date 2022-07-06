@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
+      <change afterPath="$PROJECT_DIR$/dataStructures/HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructures/HashStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructures/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructures/QueueImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataStructures/StackImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dataStructures/QueueImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/dataStructures/StackImplTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyList/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyList/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/VariableLengthArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/VariableLengthArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructures/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyList/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/dataStructures/List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MyList/ArrayListTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,88 +105,91 @@
       <recent name="C8_Java" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="dataStructures" />
       <recent name="MyList" />
       <recent name="Turtle" />
       <recent name="EMStest" />
       <recent name="SchoolMAnagementSystemTest" />
-      <recent name="SchoolManagementSystem" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ArrayListTest">
-    <configuration name="ArrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.QueueImplTest.clear">
+    <configuration name="QueueImplTest.clear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyList.*" />
+          <option name="PATTERN" value="dataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="MyList" />
-      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
+      <option name="PACKAGE_NAME" value="dataStructures" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.QueueImplTest" />
+      <option name="METHOD_NAME" value="clear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_at_Semicolon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dataStructures" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.StackImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackImplTest.pop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyList.*" />
+          <option name="PATTERN" value="dataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="MyList" />
-      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
-      <option name="METHOD_NAME" value="add" />
+      <option name="PACKAGE_NAME" value="dataStructures" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.StackImplTest" />
+      <option name="METHOD_NAME" value="pop" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest.add6Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackImplTest.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyList.*" />
+          <option name="PATTERN" value="dataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="MyList" />
-      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
-      <option name="METHOD_NAME" value="add6Elements" />
+      <option name="PACKAGE_NAME" value="dataStructures" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.StackImplTest" />
+      <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListTest.listShift" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackImplTest.size" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyList.*" />
+          <option name="PATTERN" value="dataStructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="MyList" />
-      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
-      <option name="METHOD_NAME" value="listShift" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListTest.listShift2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MyList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="MyList" />
-      <option name="MAIN_CLASS_NAME" value="MyList.ArrayListTest" />
-      <option name="METHOD_NAME" value="listShift2" />
+      <option name="PACKAGE_NAME" value="dataStructures" />
+      <option name="MAIN_CLASS_NAME" value="dataStructures.StackImplTest" />
+      <option name="METHOD_NAME" value="size" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ArrayListTest" />
-        <item itemvalue="JUnit.ArrayListTest.add6Elements" />
-        <item itemvalue="JUnit.ArrayListTest.listShift2" />
-        <item itemvalue="JUnit.ArrayListTest.listShift" />
-        <item itemvalue="JUnit.ArrayListTest.add" />
+        <item itemvalue="JUnit.QueueImplTest.clear" />
+        <item itemvalue="JUnit.StackImplTest.size" />
+        <item itemvalue="JUnit.StackImplTest.search" />
+        <item itemvalue="JUnit.StackImplTest" />
+        <item itemvalue="JUnit.StackImplTest.pop" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +339,11 @@
       <workItem from="1656141000351" duration="9587000" />
       <workItem from="1656165051800" duration="1450000" />
       <workItem from="1656277178545" duration="15000" />
-      <workItem from="1656421346194" duration="11138000" />
+      <workItem from="1656421346194" duration="14725000" />
+      <workItem from="1656441147161" duration="2750000" />
+      <workItem from="1656691648014" duration="2229000" />
+      <workItem from="1656758007874" duration="24000" />
+      <workItem from="1657095108346" duration="8103000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>

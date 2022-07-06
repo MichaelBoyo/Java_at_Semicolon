@@ -1,4 +1,4 @@
-package MyList;
+package dataStructures;
 
 public interface List {
     boolean isEmpty();
@@ -12,4 +12,5 @@ public interface List {
 
     int capacity();
     void print();
+    boolean contains(String item);
 }
