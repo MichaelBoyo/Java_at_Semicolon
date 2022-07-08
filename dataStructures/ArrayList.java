@@ -45,6 +45,8 @@ public class ArrayList implements List {
     }
 
 
+
+
     @Override
     public void remove(String item) {
         reArrange(item);

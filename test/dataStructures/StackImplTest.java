@@ -13,6 +13,7 @@ class StackImplTest {
         stack = new StackImpl();
     }
 
+
     @Test
     void push() {
         stack.push("plate");

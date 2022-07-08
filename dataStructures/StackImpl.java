@@ -1,6 +1,7 @@
 package dataStructures;
 
 public class StackImpl implements HashStack{
+
     private ArrayList stack = new ArrayList();
     @Override
     public String peek() {
@@ -16,7 +17,7 @@ public class StackImpl implements HashStack{
 
     @Override
     public void push(String item) {
-        stack.add(item);
+       stack.add(item);
     }
 
     @Override
@@ -26,12 +27,10 @@ public class StackImpl implements HashStack{
 
     @Override
     public int search(String item) {
-        int count = 0;
         for (int i = 0; i <stack.size() ; i++) {
             if (stack.get(i).equals(item)){
-                return count;
+                return i;
             }
-            count++;
         }
         return -1;
     }
