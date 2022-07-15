@@ -5,6 +5,14 @@ import java.util.*;
 public class User {
     private String name;
     private String phoneNumber;
+    private String email;
+    private Map<String, Contact> contacts = new HashMap<>();
+
+    public User(String name, String phoneNumber, String email) {
+        this.name = name;
+        this.phoneNumber = phoneNumber;
+        this.email = email;
+    }
 
     public String getEmail() {
         return email;
@@ -14,33 +22,25 @@ public class User {
         this.email = email;
     }
 
-    private String email;
-
-    private Map<String,Contact> contacts = new HashMap<>();
-
-    public User(String name, String phoneNumber, String email) {
-        this.name = name;
-        this.phoneNumber = phoneNumber;
-        this.email = email;
+    public void addContact(Contact contact) {
+        contacts.put(contact.getPhoneNumber(), contact);
     }
 
-    public void addContact(Contact contact){
-        contacts.put(contact.getPhoneNumber(),contact);
-    }
-    public Contact getContactByPhoneNumber(String phoneNumber){
+    public Contact getContactByPhoneNumber(String phoneNumber) {
         return Optional.ofNullable(contacts.get(phoneNumber)).orElseThrow(
-                ()-> new IllegalArgumentException("contact not found"));
+                () -> new IllegalArgumentException("contact not found"));
     }
 
     public String getName() {
         return name;
     }
-    public int getNoOFContacts(){
-        return contacts.size();
-    }
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getNoOFContacts() {
+        return contacts.size();
     }
 
     public String getPhoneNumber() {
@@ -62,7 +62,7 @@ public class User {
 
     public List<Contact> getContacts() {
         List<Contact> contactList = new ArrayList<>();
-        contacts.forEach((key,value)->{
+        contacts.forEach((key, value) -> {
             contactList.add(value);
         });
         return contactList;
