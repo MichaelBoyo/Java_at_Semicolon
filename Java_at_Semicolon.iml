@@ -50,5 +50,15 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

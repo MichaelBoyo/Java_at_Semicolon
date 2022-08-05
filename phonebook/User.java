@@ -6,12 +6,19 @@ public class User {
     private String name;
     private String phoneNumber;
     private String email;
+    private String password;
     private Map<String, Contact> contacts = new HashMap<>();
 
     public User(String name, String phoneNumber, String email) {
         this.name = name;
         this.phoneNumber = phoneNumber;
         this.email = email;
+    }
+    public User(String name, String phoneNumber, String email, String password) {
+        this.name = name;
+        this.phoneNumber = phoneNumber;
+        this.email = email;
+        this.password=password;
     }
 
     public String getEmail() {
@@ -66,5 +73,9 @@ public class User {
             contactList.add(value);
         });
         return contactList;
+    }
+
+    public boolean validatePassword(String password) {
+        return this.password.equals(password);
     }
 }

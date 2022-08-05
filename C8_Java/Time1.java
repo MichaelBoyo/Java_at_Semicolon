@@ -47,4 +47,15 @@ public class Time1 {
                 minutes, seconds, (hours < 12 ? "AM" : "PM"));
     }
 
+    public int getHour() {
+        return hours;
+    }
+
+    public int getMinute() {
+        return minutes;
+    }
+
+    public int getSecond() {
+        return seconds;
+    }
 }

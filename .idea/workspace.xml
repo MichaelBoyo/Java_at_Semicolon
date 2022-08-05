@@ -5,14 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/phonebook/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/phonebook/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/PasswordValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/PigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/StringConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/StringIndexMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/StringMiscellaneous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/StringStartEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/SubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/TokenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/TokenizingTelephoneNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C14_Java/ValidateInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C15_Java/CreateTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C15_Java/CreditInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C15_Java/FileAndDirectoryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C15_Java/MenuOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C15_Java/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/FactoryMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/TimeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C16_Java/UsingToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_Java/FactorialCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C18_Java/FibonacciCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C6_Java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/dataStructures/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dataStructures/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C10_Java/PolymorphismTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/C10_Java/PolymorphismTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C8_Java/Time1.java" beforeDir="false" afterPath="$PROJECT_DIR$/C8_Java/Time1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_wars/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code_wars/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_at_Semicolon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_at_Semicolon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +63,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -41,6 +77,25 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.1.1/lib/src.zip!/java.base/java/lang/StringLatin1.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.1.1/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/CreateTextFile.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/CreditInquiry.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/FileAndDirectoryInfo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/MenuOption.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/ReadTextFile.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Java_at_Semicolon.iml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/clients.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,37 +111,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "extract.method.default.visibility": "private",
-    "full.screen.before.presentation.mode": "false",
-    "last_directory_selection": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest",
-    "last_opened_file_path": "C:/Users/Michael/IdeaProjects/Chibob1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/C15_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="C15_Java" />
       <recent name="Turtle" />
       <recent name="Diary" />
     </key>
@@ -111,13 +167,13 @@
       <recent name="dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="phonebook.Main" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="FactorialCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C18_Java.FactorialCalculator" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phonebook.*" />
+          <option name="PATTERN" value="C18_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,77 +181,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_Test.addItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FibonacciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C18_Java.FibonacciCalculator" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructures.*" />
+          <option name="PATTERN" value="C18_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dataStructures" />
-      <option name="MAIN_CLASS_NAME" value="dataStructures.Map_Test" />
-      <option name="METHOD_NAME" value="addItem" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_Test.getItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C16_Java.ListTest" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dataStructures.*" />
+          <option name="PATTERN" value="C16_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="dataStructures" />
-      <option name="MAIN_CLASS_NAME" value="dataStructures.Map_Test" />
-      <option name="METHOD_NAME" value="getItem" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.addContact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Java_at_Semicolon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="phonebook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="phonebook" />
-      <option name="MAIN_CLASS_NAME" value="phonebook.UserTest" />
-      <option name="METHOD_NAME" value="addContact" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest.getContactByPhoneNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UsingToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C16_Java.UsingToArray" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="phonebook.*" />
+          <option name="PATTERN" value="C16_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="phonebook" />
-      <option name="MAIN_CLASS_NAME" value="phonebook.UserTest" />
-      <option name="METHOD_NAME" value="getContactByPhoneNumber" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.UserTest.getContactByPhoneNumber" />
-        <item itemvalue="JUnit.UserTest.addContact" />
-        <item itemvalue="JUnit.Map_Test.getItem" />
-        <item itemvalue="JUnit.Map_Test.addItem" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.FibonacciCalculator" />
+        <item itemvalue="Application.FactorialCalculator" />
+        <item itemvalue="Application.UsingToArray" />
+        <item itemvalue="Application.ListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +382,33 @@
       <workItem from="1657322687472" duration="17000" />
       <workItem from="1657701047610" duration="22000" />
       <workItem from="1657812698154" duration="5164000" />
+      <workItem from="1657882890763" duration="465000" />
+      <workItem from="1658126324351" duration="5685000" />
+      <workItem from="1658146273692" duration="1145000" />
+      <workItem from="1658164408362" duration="8004000" />
+      <workItem from="1658212264880" duration="44000" />
+      <workItem from="1658212336060" duration="5000" />
+      <workItem from="1658212395736" duration="6006000" />
+      <workItem from="1658228431431" duration="3063000" />
+      <workItem from="1658232630865" duration="21000" />
+      <workItem from="1658232749592" duration="18000" />
+      <workItem from="1658232866735" duration="9000" />
+      <workItem from="1658232981147" duration="17000" />
+      <workItem from="1658233095037" duration="19000" />
+      <workItem from="1658233153809" duration="47000" />
+      <workItem from="1658233255211" duration="31000" />
+      <workItem from="1658233399867" duration="9000" />
+      <workItem from="1658233997684" duration="289000" />
+      <workItem from="1658234621903" duration="830000" />
+      <workItem from="1658245570897" duration="15000" />
+      <workItem from="1658245685450" duration="2745000" />
+      <workItem from="1658501194968" duration="692000" />
+      <workItem from="1658515683496" duration="5000" />
+      <workItem from="1658877334079" duration="626000" />
+      <workItem from="1658912576202" duration="11997000" />
+      <workItem from="1659012639011" duration="55000" />
+      <workItem from="1659290822229" duration="713000" />
+      <workItem from="1659706354404" duration="1719000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>

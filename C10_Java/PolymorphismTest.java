@@ -21,11 +21,9 @@ public class PolymorphismTest {
                  "Call BasePlusCommissionEmployee's toString with subclass",
                "reference to subclass object",
                basePlusCommissionEmployee);
-        CommissionEmployee commissionEmployee2 =
-                basePlusCommissionEmployee;
 
         System.out.printf("%s %s:%n%n%s%n",
                 "Call BasePlusCommissionEmployee's toString with superclass",
-                "reference to subclass object",commissionEmployee2);
+                "reference to subclass object", basePlusCommissionEmployee);
        }
 }
