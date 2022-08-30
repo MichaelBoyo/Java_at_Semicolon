@@ -11,8 +11,6 @@ public class Example1 {
              var printWriter = new PrintWriter(new FileWriter(("test.txt")))
         ) {
             printWriter.println(bufferReader.readLine());
-        } catch (Exception e) {
-
-        }
+        } catch (Exception ignored) {}
     }
 }
