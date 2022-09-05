@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/C15_Java/serialize/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C15_Java/serialize/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C17_Java/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C17_Java/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C15_Java/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/C15_Java/Example1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +25,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,20 +39,22 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/C15_Java/CreateTextFile.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C15_Java/CreditInquiry.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/C15_Java/Example1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/C15_Java/Example1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C15_Java/FileAndDirectoryInfo.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/C15_Java/MenuOption.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C15_Java/ReadTextFile.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/C15_Java/serialize/Dog.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/C15_Java/serialize/Example.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/C16_Java/CollectionTest.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/C16_Java/FactoryMethods.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/C16_Java/ListTest.java" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/C16_Java/TimeComparator.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/C16_Java/CollectionTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C16_Java/FactoryMethods.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C16_Java/ListTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C16_Java/TimeComparator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C17_Java/Human.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/C17_Java/Lambda.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Java_at_Semicolon.iml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/clients.txt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/dog" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/test.txt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -96,6 +97,7 @@
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
     &quot;last_directory_selection&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/tbthecoder/Java_at_Semicolon&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -112,6 +114,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="jackson.src.main.java.jakson" />
       <recent name="C15_Java" />
       <recent name="Turtle" />
       <recent name="Diary" />
@@ -137,7 +140,7 @@
       <recent name="dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example">
+  <component name="RunManager" selected="Application.Lambda">
     <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C15_Java.serialize.Example" />
       <module name="Java_at_Semicolon" />
@@ -164,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C18_Java.FibonacciCalculator" />
+    <configuration name="FileAndDirectoryInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C15_Java.FileAndDirectoryInfo" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C18_Java.*" />
+          <option name="PATTERN" value="C15_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileAndDirectoryInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C15_Java.FileAndDirectoryInfo" />
+    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C17_Java.Lambda" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C15_Java.*" />
+          <option name="PATTERN" value="C17_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lambda" />
         <item itemvalue="Application.Example" />
         <item itemvalue="Application.FileAndDirectoryInfo" />
         <item itemvalue="Application.Example1" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FibonacciCalculator" />
       </list>
     </recent_temporary>
   </component>
@@ -381,6 +384,11 @@
       <workItem from="1659706354404" duration="1719000" />
       <workItem from="1661265275072" duration="4309000" />
       <workItem from="1661780174607" duration="3147000" />
+      <workItem from="1661818054386" duration="617000" />
+      <workItem from="1661818696649" duration="129000" />
+      <workItem from="1661935845441" duration="3148000" />
+      <workItem from="1661955783901" duration="4774000" />
+      <workItem from="1661988834833" duration="394000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
