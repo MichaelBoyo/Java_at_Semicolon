@@ -19,11 +19,11 @@ public class Lambda {
 
         human.sayHello("mike");
 
-        Function<String, ?> count = val -> val.length();
+        Function<String, ?> count = String::length;
         BiFunction<String, String, ?> concat = (val1, val2) -> val1 + " " + val2;
 
         Predicate<String> contains = val -> val.contains("m");
-        Consumer<?> print = val -> System.out.println(val);
+        Consumer<?> print = System.out::println;
 
         System.out.println(count.apply("mike"));
         System.out.println(concat.apply("mike", "hello"));
