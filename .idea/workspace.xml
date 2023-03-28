@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8036aafd-8258-400a-99b3-4278bf429285" name="Changes" comment="updates">
-      <change afterPath="$PROJECT_DIR$/chief/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chief/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code_wars/Jona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C17_Java/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/C17_Java/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/TortoiseAndHare.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/TortoiseAndHare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C7_Java/consoleClearing.java" beforeDir="false" afterPath="$PROJECT_DIR$/C7_Java/consoleClearing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_at_Semicolon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_at_Semicolon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/C7_Java/BooleanComparisonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/C7_Java/BooleanComparisonTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,36 +85,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/tbthecoder/Java_at_Semicolon&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.reader.mode&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "extract.method.default.visibility": "private",
+    "full.screen.before.presentation.mode": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_directory_selection": "C:/Users/Michael/IdeaProjects/Java_at_Semicolon/SchoolMAnagementSystemTest",
+    "last_opened_file_path": "C:/Users/boyom/Java_at_Semicolon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editor.reader.mode",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="jackson.src.main.java.jakson" />
@@ -139,13 +144,13 @@
       <recent name="dataStructures" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chief.Client" />
+  <component name="RunManager" selected="Application.vowels">
+    <configuration name="BoyoAir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.BoyoAir" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chief.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C15_Java.serialize.Example" />
+    <configuration name="Jona" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_wars.Jona" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C15_Java.serialize.*" />
+          <option name="PATTERN" value="Code_wars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C17_Java.Lambda" />
+    <configuration name="consoleClearing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.consoleClearing" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C17_Java.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chief.Server" />
+    <configuration name="tortoiseAndHareMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C7_Java.tortoiseAndHareMain" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chief.*" />
+          <option name="PATTERN" value="C7_Java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServerSide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chief.ServerSide" />
+    <configuration name="vowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Code_wars.vowels" />
       <module name="Java_at_Semicolon" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chief.*" />
+          <option name="PATTERN" value="Code_wars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.ServerSide" />
-        <item itemvalue="Application.Lambda" />
-        <item itemvalue="Application.Example" />
+        <item itemvalue="Application.vowels" />
+        <item itemvalue="Application.Jona" />
+        <item itemvalue="Application.consoleClearing" />
+        <item itemvalue="Application.BoyoAir" />
+        <item itemvalue="Application.tortoiseAndHareMain" />
       </list>
     </recent_temporary>
   </component>
@@ -397,6 +402,7 @@
       <workItem from="1662373191928" duration="156000" />
       <workItem from="1662561382847" duration="380000" />
       <workItem from="1662563054678" duration="3288000" />
+      <workItem from="1679353149080" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="new repo">
       <created>1650568223807</created>
@@ -766,18 +772,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$CourseTest.ic" NAME="CourseTest Coverage Results" MODIFIED="1655249008056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest.ic" NAME="EntryTest Coverage Results" MODIFIED="1654245096738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Diary.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$StudentTest.ic" NAME="StudentTest Coverage Results" MODIFIED="1655248978040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest_testThatUserCanHaveEntry.ic" NAME="UserTest.testThatUserCanHaveEntry Coverage Results" MODIFIED="1653937483670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Diary.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$SchoolTest.ic" NAME="SchoolTest Coverage Results" MODIFIED="1655248946283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>SchoolMAnagementSystemTest.*</FILTER>
     </SUITE>
@@ -790,13 +784,25 @@
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$ShoppingCartTest.ic" NAME="ShoppingCartTest Coverage Results" MODIFIED="1654345520538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>C7_Java.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$CourseTest.ic" NAME="CourseTest Coverage Results" MODIFIED="1655249008056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$StudentTest.ic" NAME="StudentTest Coverage Results" MODIFIED="1655248978040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>SchoolMAnagementSystemTest.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest_testThatEntryCanBeEdited.ic" NAME="EntryTest.testThatEntryCanBeEdited Coverage Results" MODIFIED="1654105870661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Java_at_Semicolon$DiaryTest.ic" NAME="DiaryTest Coverage Results" MODIFIED="1654245014916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$EntryTest.ic" NAME="EntryTest Coverage Results" MODIFIED="1654245096738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest_testThatUserCanHaveEntry.ic" NAME="UserTest.testThatUserCanHaveEntry Coverage Results" MODIFIED="1653937483670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Java_at_Semicolon$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1654125568064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Diary.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_at_Semicolon$DiaryTest.ic" NAME="DiaryTest Coverage Results" MODIFIED="1654245014916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Diary.*</FILTER>
     </SUITE>
   </component>
